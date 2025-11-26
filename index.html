@@ -246,11 +246,19 @@
             flex: 1;
         }
 
+        .gap-placeholder {
+            font-weight: bold;
+            color: #667eea;
+            font-size: 1.1em;
+        }
+
         .gap {
             font-weight: bold;
-            display: inline-flex;
+            display: flex;
             gap: 8px;
             line-height: 1.5;
+            margin-top: 15px;
+            flex-wrap: wrap;
         }
 
         .gap button {
@@ -426,7 +434,7 @@
             }
 
             .quiz-item-header {
-                flex-direction: column;
+                flex-direction: row;
                 align-items: flex-start;
             }
 
@@ -434,13 +442,14 @@
                 width: 28px;
                 height: 28px;
                 font-size: 0.9em;
-                margin-bottom: 10px;
+                margin-bottom: 0;
+                margin-right: 10px;
             }
 
             .sentence {
                 font-size: 1.05em;
                 margin-right: 0;
-                margin-bottom: 12px;
+                margin-bottom: 0;
                 line-height: 2;
                 width: 100%;
             }
@@ -455,16 +464,16 @@
             }
 
             .gap {
-                flex-wrap: wrap;
-                gap: 6px;
+                gap: 8px;
                 width: 100%;
                 justify-content: flex-start;
+                margin-top: 15px;
             }
 
             .gap button {
-                padding: 8px 18px;
-                font-size: 1em;
-                min-width: 60px;
+                padding: 10px 20px;
+                font-size: 1.05em;
+                min-width: 65px;
             }
 
             .feedback {

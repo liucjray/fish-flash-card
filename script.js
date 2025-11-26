@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded', () => {
         item.className = 'quiz-item';
         item.dataset.answered = 'false';
 
-        // 建立題目標題區（包含題號、句子、反饋）
+        // 建立題目標題區（包含題號、句子）
         const header = document.createElement('div');
         header.className = 'quiz-item-header';
 
@@ -50,9 +50,12 @@ document.addEventListener('DOMContentLoaded', () => {
         const beforeHtml = renderRubyText(question.sentence_before_ruby);
         const afterHtml = renderRubyText(question.sentence_after_ruby);
 
-        sentence.innerHTML = `${beforeHtml} <span class="gap"></span> ${afterHtml}`;
+        sentence.innerHTML = `${beforeHtml} <span class="gap-placeholder">___</span> ${afterHtml}`;
 
-        const gapElement = sentence.querySelector('.gap');
+        // 建立選項按鈕區塊（獨立於句子）
+        const gapElement = document.createElement('div');
+        gapElement.className = 'gap';
+
         const feedbackElement = document.createElement('div');
         feedbackElement.className = 'feedback';
 
@@ -74,9 +77,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
         header.appendChild(numberElement);
         header.appendChild(sentence);
-        header.appendChild(feedbackElement);
 
         item.appendChild(header);
+        item.appendChild(gapElement);
+        item.appendChild(feedbackElement);
         item.appendChild(explanationContainer);
 
         return item;
@@ -190,8 +194,8 @@ document.addEventListener('DOMContentLoaded', () => {
             btn.classList.add('disabled');
         });
 
-        const header = itemElement.querySelector('.quiz-item-header');
-        const gapElement = header.querySelector('.gap');
+        const gapElement = itemElement.querySelector('.gap');
+        const gapPlaceholder = itemElement.querySelector('.gap-placeholder');
 
         // 檢查答案
         if (userAnswer === correctAnswer) {
@@ -199,6 +203,9 @@ document.addEventListener('DOMContentLoaded', () => {
             feedbackElement.textContent = '✅ 答對了！';
             feedbackElement.classList.add('correct');
             replaceGapWithAnswer(gapElement, correctAnswer, 'correct-highlight');
+            if (gapPlaceholder) {
+                gapPlaceholder.innerHTML = `<span class="correct-highlight" style="font-size: 1em;">${correctAnswer}</span>`;
+            }
         } else {
             userAnswers[question.id] = false;
             feedbackElement.textContent = '❌ 答錯了！';
@@ -217,6 +224,9 @@ document.addEventListener('DOMContentLoaded', () => {
             }, 100);
 
             replaceGapWithAnswer(gapElement, correctAnswer, 'incorrect-highlight');
+            if (gapPlaceholder) {
+                gapPlaceholder.innerHTML = `<span class="incorrect-highlight" style="font-size: 1em;">${correctAnswer}</span>`;
+            }
         }
 
         updateScoreDisplay();
