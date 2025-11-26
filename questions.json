@@ -1,0 +1,3317 @@
+{
+  "group_de": {
+    "title": "「的」 (ㄉㄜ˙) vs 「得」 (ㄉㄜˊ) 練習 (共 50 題)",
+    "questions": [
+      {
+        "id": 1,
+        "sentence_before_ruby": [
+          {"word": "姊", "bopomo": "ㄐㄧㄝˇ"},
+          {"word": "姊", "bopomo": "ㄐㄧㄝ˙"},
+          {"word": "穿", "bopomo": "ㄔㄨㄢ"},
+          {"word": "著", "bopomo": "ㄓㄜ˙"},
+          {"word": "美", "bopomo": "ㄇㄟˇ"},
+          {"word": "麗", "bopomo": "ㄌㄧˋ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "的",
+        "sentence_after_ruby": [
+          {"word": "裙", "bopomo": "ㄑㄩㄣˊ"},
+          {"word": "子", "bopomo": "ㄗ˙"}
+        ],
+        "explanation": "「的」後面是東西（裙子），形容裙子很美。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 2,
+        "sentence_before_ruby": [
+          {"word": "小", "bopomo": "ㄒㄧㄠˇ"},
+          {"word": "貓", "bopomo": "ㄇㄠ"},
+          {"word": "咪", "bopomo": "ㄇㄧ"},
+          {"word": "跑", "bopomo": "ㄆㄠˇ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "得",
+        "sentence_after_ruby": [
+          {"word": "好", "bopomo": "ㄏㄠˇ"},
+          {"word": "快", "bopomo": "ㄎㄨㄞˋ"}
+        ],
+        "explanation": "「得」在動詞「跑」後面，說跑的速度。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 3,
+        "sentence_before_ruby": [
+          {"word": "這", "bopomo": "ㄓㄜˋ"},
+          {"word": "是", "bopomo": "ㄕˋ"},
+          {"word": "我", "bopomo": "ㄨㄛˇ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "的",
+        "sentence_after_ruby": [
+          {"word": "鉛", "bopomo": "ㄑㄧㄢ"},
+          {"word": "筆", "bopomo": "ㄅㄧˇ"},
+          {"word": "盒", "bopomo": "ㄏㄜˊ"}
+        ],
+        "explanation": "「的」表示是誰的東西（我的鉛筆盒）。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 4,
+        "sentence_before_ruby": [
+          {"word": "他", "bopomo": "ㄊㄚ"},
+          {"word": "們", "bopomo": "ㄇㄣ˙"},
+          {"word": "玩", "bopomo": "ㄨㄢˊ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "得",
+        "sentence_after_ruby": [
+          {"word": "真", "bopomo": "ㄓㄣ"},
+          {"word": "開", "bopomo": "ㄎㄞ"},
+          {"word": "心", "bopomo": "ㄒㄧㄣ"}
+        ],
+        "explanation": "「得」在動詞「玩」後面，說玩的心情。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 5,
+        "sentence_before_ruby": [
+          {"word": "天", "bopomo": "ㄊㄧㄢ"},
+          {"word": "上", "bopomo": "ㄕㄤˋ"},
+          {"word": "閃", "bopomo": "ㄕㄢˇ"},
+          {"word": "亮", "bopomo": "ㄌㄧㄤˋ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "的",
+        "sentence_after_ruby": [
+          {"word": "星", "bopomo": "ㄒㄧㄥ"},
+          {"word": "星", "bopomo": "ㄒㄧㄥ"}
+        ],
+        "explanation": "「的」後面是東西（星星），形容星星很亮。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 6,
+        "sentence_before_ruby": [
+          {"word": "妹", "bopomo": "ㄇㄟˋ"},
+          {"word": "妹", "bopomo": "ㄇㄟ˙"},
+          {"word": "哭", "bopomo": "ㄎㄨ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "得",
+        "sentence_after_ruby": [
+          {"word": "很", "bopomo": "ㄏㄣˇ"},
+          {"word": "大", "bopomo": "ㄉㄚˋ"},
+          {"word": "聲", "bopomo": "ㄕㄥ"}
+        ],
+        "explanation": "「得」在動詞「哭」後面，說哭的聲音很大。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 7,
+        "sentence_before_ruby": [
+          {"word": "好", "bopomo": "ㄏㄠˇ"},
+          {"word": "吃", "bopomo": "ㄔ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "的",
+        "sentence_after_ruby": [
+          {"word": "蛋", "bopomo": "ㄉㄢˋ"},
+          {"word": "糕", "bopomo": "ㄍㄠ"}
+        ],
+        "explanation": "「的」修飾名詞「蛋糕」，說蛋糕很好吃。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 8,
+        "sentence_before_ruby": [
+          {"word": "老", "bopomo": "ㄌㄠˇ"},
+          {"word": "師", "bopomo": "ㄕ"},
+          {"word": "說", "bopomo": "ㄕㄨㄛ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "得",
+        "sentence_after_ruby": [
+          {"word": "很", "bopomo": "ㄏㄣˇ"},
+          {"word": "清", "bopomo": "ㄑㄧㄥ"},
+          {"word": "楚", "bopomo": "ㄔㄨˇ"}
+        ],
+        "explanation": "「得」在動詞「說」後面，說說話的方式。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 9,
+        "sentence_before_ruby": [
+          {"word": "圓", "bopomo": "ㄩㄢˊ"},
+          {"word": "圓", "bopomo": "ㄩㄢˊ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "的",
+        "sentence_after_ruby": [
+          {"word": "月", "bopomo": "ㄩㄝˋ"},
+          {"word": "亮", "bopomo": "ㄌㄧㄤˋ"}
+        ],
+        "explanation": "「的」修飾名詞「月亮」，說月亮的形狀。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 10,
+        "sentence_before_ruby": [
+          {"word": "弟", "bopomo": "ㄉㄧˋ"},
+          {"word": "弟", "bopomo": "ㄉㄧ˙"},
+          {"word": "氣", "bopomo": "ㄑㄧˋ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "得",
+        "sentence_after_ruby": [
+          {"word": "臉", "bopomo": "ㄌㄧㄢˇ"},
+          {"word": "都", "bopomo": "ㄉㄡ"},
+          {"word": "紅", "bopomo": "ㄏㄨㄥˊ"},
+          {"word": "了", "bopomo": "ㄌㄜ˙"}
+        ],
+        "explanation": "「得」在動詞「氣」後面，說生氣的結果。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 11,
+        "sentence_before_ruby": [
+          {"word": "我", "bopomo": "ㄨㄛˇ"},
+          {"word": "喜", "bopomo": "ㄒㄧˇ"},
+          {"word": "歡", "bopomo": "ㄏㄨㄢ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "的",
+        "sentence_after_ruby": [
+          {"word": "顏", "bopomo": "ㄧㄢˊ"},
+          {"word": "色", "bopomo": "ㄙㄜˋ"}
+        ],
+        "explanation": "「的」後面是東西（顏色），指我喜歡的顏色。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 12,
+        "sentence_before_ruby": [
+          {"word": "爺", "bopomo": "ㄧㄝˊ"},
+          {"word": "爺", "bopomo": "ㄧㄝ˙"},
+          {"word": "走", "bopomo": "ㄗㄡˇ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "得",
+        "sentence_after_ruby": [
+          {"word": "慢", "bopomo": "ㄇㄢˋ"},
+          {"word": "慢", "bopomo": "ㄇㄢˋ"},
+          {"word": "的", "bopomo": "ㄉㄜ˙"}
+        ],
+        "explanation": "「得」在動詞「走」後面，說走路的樣子。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 13,
+        "sentence_before_ruby": [
+          {"word": "綠", "bopomo": "ㄌㄩˋ"},
+          {"word": "色", "bopomo": "ㄙㄜˋ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "的",
+        "sentence_after_ruby": [
+          {"word": "小", "bopomo": "ㄒㄧㄠˇ"},
+          {"word": "草", "bopomo": "ㄘㄠˇ"}
+        ],
+        "explanation": "「的」修飾名詞「小草」，說小草的顏色。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 14,
+        "sentence_before_ruby": [
+          {"word": "太", "bopomo": "ㄊㄞˋ"},
+          {"word": "陽", "bopomo": "ㄧㄤˊ"},
+          {"word": "曬", "bopomo": "ㄕㄞˋ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "得",
+        "sentence_after_ruby": [
+          {"word": "暖", "bopomo": "ㄋㄨㄢˇ"},
+          {"word": "暖", "bopomo": "ㄋㄨㄢˇ"},
+          {"word": "的", "bopomo": "ㄉㄜ˙"}
+        ],
+        "explanation": "「得」在動詞「曬」後面，說曬的感覺。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 15,
+        "sentence_before_ruby": [
+          {"word": "借", "bopomo": "ㄐㄧㄝˋ"},
+          {"word": "給", "bopomo": "ㄍㄟˇ"},
+          {"word": "我", "bopomo": "ㄨㄛˇ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "的",
+        "sentence_after_ruby": [
+          {"word": "橡", "bopomo": "ㄒㄧㄤˋ"},
+          {"word": "皮", "bopomo": "ㄆㄧˊ"},
+          {"word": "擦", "bopomo": "ㄘㄚ"}
+        ],
+        "explanation": "「的」後面是東西（橡皮擦），指借出的橡皮擦。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 16,
+        "sentence_before_ruby": [
+          {"word": "媽", "bopomo": "ㄇㄚ"},
+          {"word": "媽", "bopomo": "ㄇㄚ˙"},
+          {"word": "煮", "bopomo": "ㄓㄨˇ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "得",
+        "sentence_after_ruby": [
+          {"word": "好", "bopomo": "ㄏㄠˇ"},
+          {"word": "香", "bopomo": "ㄒㄧㄤ"}
+        ],
+        "explanation": "「得」在動詞「煮」後面，說煮飯的結果。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 17,
+        "sentence_before_ruby": [
+          {"word": "藍", "bopomo": "ㄌㄢˊ"},
+          {"word": "天", "bopomo": "ㄊㄧㄢ"},
+          {"word": "裡", "bopomo": "ㄌㄧˇ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "的",
+        "sentence_after_ruby": [
+          {"word": "白", "bopomo": "ㄅㄞˊ"},
+          {"word": "雲", "bopomo": "ㄩㄣˊ"}
+        ],
+        "explanation": "「的」修飾名詞「白雲」，說雲在哪裡。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 18,
+        "sentence_before_ruby": [
+          {"word": "他", "bopomo": "ㄊㄚ"},
+          {"word": "們", "bopomo": "ㄇㄣ˙"},
+          {"word": "吵", "bopomo": "ㄔㄠˇ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "得",
+        "sentence_after_ruby": [
+          {"word": "很", "bopomo": "ㄏㄣˇ"},
+          {"word": "兇", "bopomo": "ㄒㄩㄥ"}
+        ],
+        "explanation": "「得」在動詞「吵」後面，說吵架的程度。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 19,
+        "sentence_before_ruby": [
+          {"word": "爸", "bopomo": "ㄅㄚˋ"},
+          {"word": "爸", "bopomo": "ㄅㄚ˙"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "的",
+        "sentence_after_ruby": [
+          {"word": "手", "bopomo": "ㄕㄡˇ"},
+          {"word": "機", "bopomo": "ㄐㄧ"}
+        ],
+        "explanation": "「的」表示爸爸擁有手機。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 20,
+        "sentence_before_ruby": [
+          {"word": "魚", "bopomo": "ㄩˊ"},
+          {"word": "兒", "bopomo": "ㄦˊ"},
+          {"word": "游", "bopomo": "ㄧㄡˊ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "得",
+        "sentence_after_ruby": [
+          {"word": "很", "bopomo": "ㄏㄣˇ"},
+          {"word": "快", "bopomo": "ㄎㄨㄞˋ"}
+        ],
+        "explanation": "「得」在動詞「游」後面，說游泳的樣子。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 21,
+        "sentence_before_ruby": [
+          {"word": "新", "bopomo": "ㄒㄧㄣ"},
+          {"word": "買", "bopomo": "ㄇㄞˇ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "的",
+        "sentence_after_ruby": [
+          {"word": "鞋", "bopomo": "ㄒㄧㄝˊ"},
+          {"word": "子", "bopomo": "ㄗ˙"}
+        ],
+        "explanation": "「的」後面是東西（鞋子），形容鞋子是新的。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 22,
+        "sentence_before_ruby": [
+          {"word": "妹", "bopomo": "ㄇㄟˋ"},
+          {"word": "妹", "bopomo": "ㄇㄟ˙"},
+          {"word": "睡", "bopomo": "ㄕㄨㄟˋ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "得",
+        "sentence_after_ruby": [
+          {"word": "好", "bopomo": "ㄏㄠˇ"},
+          {"word": "甜", "bopomo": "ㄊㄧㄢˊ"}
+        ],
+        "explanation": "「得」在動詞「睡」後面，說睡覺的樣子。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 23,
+        "sentence_before_ruby": [
+          {"word": "樹", "bopomo": "ㄕㄨˋ"},
+          {"word": "上", "bopomo": "ㄕㄤˋ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "的",
+        "sentence_after_ruby": [
+          {"word": "鳥", "bopomo": "ㄋㄧㄠˇ"},
+          {"word": "窩", "bopomo": "ㄨㄛ"}
+        ],
+        "explanation": "「的」修飾名詞「鳥窩」，說鳥窩在哪裡。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 24,
+        "sentence_before_ruby": [
+          {"word": "哥", "bopomo": "ㄍㄜ"},
+          {"word": "哥", "bopomo": "ㄍㄜ˙"},
+          {"word": "畫", "bopomo": "ㄏㄨㄚˋ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "得",
+        "sentence_after_ruby": [
+          {"word": "很", "bopomo": "ㄏㄣˇ"},
+          {"word": "像", "bopomo": "ㄒㄧㄤˋ"},
+          {"word": "真", "bopomo": "ㄓㄣ"}
+        ],
+        "explanation": "「得」在動詞「畫」後面，說畫畫的結果。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 25,
+        "sentence_before_ruby": [
+          {"word": "早", "bopomo": "ㄗㄠˇ"},
+          {"word": "上", "bopomo": "ㄕㄤˋ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "的",
+        "sentence_after_ruby": [
+          {"word": "陽", "bopomo": "ㄧㄤˊ"},
+          {"word": "光", "bopomo": "ㄍㄨㄤ"}
+        ],
+        "explanation": "「的」修飾名詞「陽光」，說陽光出現的時間。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 26,
+        "sentence_before_ruby": [
+          {"word": "花", "bopomo": "ㄏㄨㄚ"},
+          {"word": "開", "bopomo": "ㄎㄞ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "得",
+        "sentence_after_ruby": [
+          {"word": "好", "bopomo": "ㄏㄠˇ"},
+          {"word": "漂", "bopomo": "ㄆㄧㄠˋ"},
+          {"word": "亮", "bopomo": "ㄌㄧㄤˋ"}
+        ],
+        "explanation": "「得」在動詞「開」後面，說花開的狀態。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 27,
+        "sentence_before_ruby": [
+          {"word": "畫", "bopomo": "ㄏㄨㄚˋ"},
+          {"word": "圖", "bopomo": "ㄊㄨˊ"},
+          {"word": "用", "bopomo": "ㄩㄥˋ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "的",
+        "sentence_after_ruby": [
+          {"word": "鉛", "bopomo": "ㄑㄧㄢ"},
+          {"word": "筆", "bopomo": "ㄅㄧˇ"}
+        ],
+        "explanation": "「的」後面是東西（鉛筆），指畫圖用的筆。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 28,
+        "sentence_before_ruby": [
+          {"word": "老", "bopomo": "ㄌㄠˇ"},
+          {"word": "師", "bopomo": "ㄕ"},
+          {"word": "教", "bopomo": "ㄐㄧㄠ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "得",
+        "sentence_after_ruby": [
+          {"word": "很", "bopomo": "ㄏㄣˇ"},
+          {"word": "好", "bopomo": "ㄏㄠˇ"}
+        ],
+        "explanation": "「得」在動詞「教」後面，說教學的結果。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 29,
+        "sentence_before_ruby": [
+          {"word": "窗", "bopomo": "ㄔㄨㄤ"},
+          {"word": "戶", "bopomo": "ㄏㄨˋ"},
+          {"word": "外", "bopomo": "ㄨㄞˋ"},
+          {"word": "面", "bopomo": "ㄇㄧㄢˋ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "的",
+        "sentence_after_ruby": [
+          {"word": "風", "bopomo": "ㄈㄥ"},
+          {"word": "景", "bopomo": "ㄐㄧㄥˇ"}
+        ],
+        "explanation": "「的」後面是名詞「風景」，指外面的風景。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 30,
+        "sentence_before_ruby": [
+          {"word": "衣", "bopomo": "ㄧ"},
+          {"word": "服", "bopomo": "ㄈㄨˊ"},
+          {"word": "洗", "bopomo": "ㄒㄧˇ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "得",
+        "sentence_after_ruby": [
+          {"word": "很", "bopomo": "ㄏㄣˇ"},
+          {"word": "乾", "bopomo": "ㄍㄢ"},
+          {"word": "淨", "bopomo": "ㄐㄧㄥˋ"}
+        ],
+        "explanation": "「得」在動詞「洗」後面，說洗衣服的結果。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 31,
+        "sentence_before_ruby": [
+          {"word": "冰", "bopomo": "ㄅㄧㄥ"},
+          {"word": "冰", "bopomo": "ㄅㄧㄥ"},
+          {"word": "涼", "bopomo": "ㄌㄧㄤˊ"},
+          {"word": "涼", "bopomo": "ㄌㄧㄤˊ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "的",
+        "sentence_after_ruby": [
+          {"word": "西", "bopomo": "ㄒㄧ"},
+          {"word": "瓜", "bopomo": "ㄍㄨㄚ"}
+        ],
+        "explanation": "「的」修飾名詞「西瓜」，說西瓜的感覺。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 32,
+        "sentence_before_ruby": [
+          {"word": "大", "bopomo": "ㄉㄚˋ"},
+          {"word": "家", "bopomo": "ㄐㄧㄚ"},
+          {"word": "跳", "bopomo": "ㄊㄧㄠˋ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "得",
+        "sentence_after_ruby": [
+          {"word": "又", "bopomo": "ㄧㄡˋ"},
+          {"word": "叫", "bopomo": "ㄐㄧㄠˋ"},
+          {"word": "又", "bopomo": "ㄧㄡˋ"},
+          {"word": "跳", "bopomo": "ㄊㄧㄠˋ"}
+        ],
+        "explanation": "「得」在動詞「跳」後面，說明跳的樣子。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 33,
+        "sentence_before_ruby": [
+          {"word": "學", "bopomo": "ㄒㄩㄝˊ"},
+          {"word": "校", "bopomo": "ㄒㄧㄠˋ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "的",
+        "sentence_after_ruby": [
+          {"word": "操", "bopomo": "ㄘㄠ"},
+          {"word": "場", "bopomo": "ㄔㄤˊ"}
+        ],
+        "explanation": "「的」修飾名詞「操場」，指學校的操場。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 34,
+        "sentence_before_ruby": [
+          {"word": "弟", "bopomo": "ㄉㄧˋ"},
+          {"word": "弟", "bopomo": "ㄉㄧ˙"},
+          {"word": "嚇", "bopomo": "ㄒㄧㄚˋ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "得",
+        "sentence_after_ruby": [
+          {"word": "大", "bopomo": "ㄉㄚˋ"},
+          {"word": "叫", "bopomo": "ㄐㄧㄠˋ"}
+        ],
+        "explanation": "「得」在動詞「嚇」後面，說明嚇到的結果。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 35,
+        "sentence_before_ruby": [
+          {"word": "香", "bopomo": "ㄒㄧㄤ"},
+          {"word": "噴", "bopomo": "ㄆㄣ"},
+          {"word": "噴", "bopomo": "ㄆㄣ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "的",
+        "sentence_after_ruby": [
+          {"word": "飯", "bopomo": "ㄈㄢˋ"},
+          {"word": "菜", "bopomo": "ㄘㄞˋ"}
+        ],
+        "explanation": "「的」修飾名詞「飯菜」，說飯菜很香。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 36,
+        "sentence_before_ruby": [
+          {"word": "蝸", "bopomo": "ㄍㄨㄚ"},
+          {"word": "牛", "bopomo": "ㄋㄧㄡˊ"},
+          {"word": "爬", "bopomo": "ㄆㄚˊ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "得",
+        "sentence_after_ruby": [
+          {"word": "慢", "bopomo": "ㄇㄢˋ"},
+          {"word": "吞", "bopomo": "ㄊㄨㄣ"},
+          {"word": "吞", "bopomo": "ㄊㄨㄣ"}
+        ],
+        "explanation": "「得」在動詞「爬」後面，說爬的樣子。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 37,
+        "sentence_before_ruby": [
+          {"word": "黑", "bopomo": "ㄏㄟ"},
+          {"word": "色", "bopomo": "ㄙㄜˋ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "的",
+        "sentence_after_ruby": [
+          {"word": "皮", "bopomo": "ㄆㄧˊ"},
+          {"word": "鞋", "bopomo": "ㄒㄧㄝˊ"}
+        ],
+        "explanation": "「的」修飾名詞「皮鞋」，說鞋子的顏色。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 38,
+        "sentence_before_ruby": [
+          {"word": "太", "bopomo": "ㄊㄞˋ"},
+          {"word": "陽", "bopomo": "ㄧㄤˊ"},
+          {"word": "大", "bopomo": "ㄉㄚˋ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "得",
+        "sentence_after_ruby": [
+          {"word": "像", "bopomo": "ㄒㄧㄤˋ"},
+          {"word": "火", "bopomo": "ㄏㄨㄛˇ"},
+          {"word": "球", "bopomo": "ㄑㄧㄡˊ"}
+        ],
+        "explanation": "「得」在形容詞「大」後面，說明太陽大的程度。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 39,
+        "sentence_before_ruby": [
+          {"word": "好", "bopomo": "ㄏㄠˇ"},
+          {"word": "朋", "bopomo": "ㄆㄥˊ"},
+          {"word": "友", "bopomo": "ㄧㄡˇ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "的",
+        "sentence_after_ruby": [
+          {"word": "禮", "bopomo": "ㄌㄧˇ"},
+          {"word": "物", "bopomo": "ㄨˋ"}
+        ],
+        "explanation": "「的」修飾名詞「禮物」，指好朋友送的禮物。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 40,
+        "sentence_before_ruby": [
+          {"word": "魚", "bopomo": "ㄩˊ"},
+          {"word": "缸", "bopomo": "ㄍㄤ"},
+          {"word": "裡", "bopomo": "ㄌㄧˇ"},
+          {"word": "游", "bopomo": "ㄧㄡˊ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "的",
+        "sentence_after_ruby": [
+          {"word": "魚", "bopomo": "ㄩˊ"}
+        ],
+        "explanation": "「的」後面是名詞「魚」，「游的」修飾魚。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 41,
+        "sentence_before_ruby": [
+          {"word": "妹", "bopomo": "ㄇㄟˋ"},
+          {"word": "妹", "bopomo": "ㄇㄟ˙"},
+          {"word": "被", "bopomo": "ㄅㄟˋ"},
+          {"word": "嚇", "bopomo": "ㄒㄧㄚˋ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "得",
+        "sentence_after_ruby": [
+          {"word": "發", "bopomo": "ㄈㄚ"},
+          {"word": "抖", "bopomo": "ㄉㄡˇ"}
+        ],
+        "explanation": "「得」在動詞「嚇」後面，說明嚇到的結果。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 42,
+        "sentence_before_ruby": [
+          {"word": "以", "bopomo": "ㄧˇ"},
+          {"word": "前", "bopomo": "ㄑㄧㄢˊ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "的",
+        "sentence_after_ruby": [
+          {"word": "故", "bopomo": "ㄍㄨˋ"},
+          {"word": "事", "bopomo": "ㄕˋ"}
+        ],
+        "explanation": "「的」修飾名詞「故事」，指以前發生的故事。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 43,
+        "sentence_before_ruby": [
+          {"word": "媽", "bopomo": "ㄇㄚ"},
+          {"word": "媽", "bopomo": "ㄇㄚ˙"},
+          {"word": "打", "bopomo": "ㄉㄚˇ"},
+          {"word": "扮", "bopomo": "ㄅㄢˋ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "得",
+        "sentence_after_ruby": [
+          {"word": "漂", "bopomo": "ㄆㄧㄠˋ"},
+          {"word": "漂", "bopomo": "ㄆㄧㄠˋ"},
+          {"word": "亮", "bopomo": "ㄌㄧㄤˋ"},
+          {"word": "亮", "bopomo": "ㄌㄧㄤˋ"}
+        ],
+        "explanation": "「得」在動詞「打扮」後面，說打扮的樣子。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 44,
+        "sentence_before_ruby": [
+          {"word": "小", "bopomo": "ㄒㄧㄠˇ"},
+          {"word": "花", "bopomo": "ㄏㄨㄚ"},
+          {"word": "貓", "bopomo": "ㄇㄠ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "的",
+        "sentence_after_ruby": [
+          {"word": "尾", "bopomo": "ㄨㄟˇ"},
+          {"word": "巴", "bopomo": "ㄅㄚ"}
+        ],
+        "explanation": "「的」表示小花貓擁有尾巴。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 45,
+        "sentence_before_ruby": [
+          {"word": "老", "bopomo": "ㄌㄠˇ"},
+          {"word": "師", "bopomo": "ㄕ"},
+          {"word": "講", "bopomo": "ㄐㄧㄤˇ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "得",
+        "sentence_after_ruby": [
+          {"word": "很", "bopomo": "ㄏㄣˇ"},
+          {"word": "久", "bopomo": "ㄐㄧㄡˇ"}
+        ],
+        "explanation": "「得」在動詞「講」後面，說講話的時長或結果。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 46,
+        "sentence_before_ruby": [
+          {"word": "弟", "bopomo": "ㄉㄧˋ"},
+          {"word": "弟", "bopomo": "ㄉㄧ˙"},
+          {"word": "寫", "bopomo": "ㄒㄧㄝˇ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "的",
+        "sentence_after_ruby": [
+          {"word": "字", "bopomo": "ㄗˋ"}
+        ],
+        "explanation": "「的」後面是名詞「字」，指弟弟寫出來的字。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 47,
+        "sentence_before_ruby": [
+          {"word": "火", "bopomo": "ㄏㄨㄛˇ"},
+          {"word": "車", "bopomo": "ㄔㄜ"},
+          {"word": "開", "bopomo": "ㄎㄞ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "得",
+        "sentence_after_ruby": [
+          {"word": "好", "bopomo": "ㄏㄠˇ"},
+          {"word": "快", "bopomo": "ㄎㄨㄞˋ"}
+        ],
+        "explanation": "「得」在動詞「開」後面，說火車的速度。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 48,
+        "sentence_before_ruby": [
+          {"word": "胖", "bopomo": "ㄆㄤˋ"},
+          {"word": "胖", "bopomo": "ㄆㄤˋ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "的",
+        "sentence_after_ruby": [
+          {"word": "小", "bopomo": "ㄒㄧㄠˇ"},
+          {"word": "豬", "bopomo": "ㄓㄨ"}
+        ],
+        "explanation": "「的」修飾名詞「小豬」，說小豬的樣子。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 49,
+        "sentence_before_ruby": [
+          {"word": "我", "bopomo": "ㄨㄛˇ"},
+          {"word": "笑", "bopomo": "ㄒㄧㄠˋ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "得",
+        "sentence_after_ruby": [
+          {"word": "肚", "bopomo": "ㄉㄨˋ"},
+          {"word": "子", "bopomo": "ㄗ˙"},
+          {"word": "痛", "bopomo": "ㄊㄨㄥˋ"}
+        ],
+        "explanation": "「得」在動詞「笑」後面，說笑的結果。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 50,
+        "sentence_before_ruby": [
+          {"word": "學", "bopomo": "ㄒㄩㄝˊ"},
+          {"word": "校", "bopomo": "ㄒㄧㄠˋ"},
+          {"word": "裡", "bopomo": "ㄌㄧˇ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "的",
+        "sentence_after_ruby": [
+          {"word": "圖", "bopomo": "ㄊㄨˊ"},
+          {"word": "書", "bopomo": "ㄕㄨ"},
+          {"word": "館", "bopomo": "ㄍㄨㄢˇ"}
+        ],
+        "explanation": "「的」修飾名詞「圖書館」，說圖書館在哪裡。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 51,
+        "sentence_before_ruby": [
+          {"word": "這", "bopomo": "ㄓㄜˋ"},
+          {"word": "件", "bopomo": "ㄐㄧㄢˋ"},
+          {"word": "漂", "bopomo": "ㄆㄧㄠˋ"},
+          {"word": "亮", "bopomo": "ㄌㄧㄤˋ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "的",
+        "sentence_after_ruby": [
+          {"word": "衣", "bopomo": "ㄧ"},
+          {"word": "服", "bopomo": "ㄈㄨˊ"}
+        ],
+        "explanation": "「的」後面是東西（衣服），形容衣服很漂亮。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 52,
+        "sentence_before_ruby": [
+          {"word": "魚", "bopomo": "ㄩˊ"},
+          {"word": "兒", "bopomo": "ㄦˊ"},
+          {"word": "跳", "bopomo": "ㄊㄧㄠˋ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "得",
+        "sentence_after_ruby": [
+          {"word": "好", "bopomo": "ㄏㄠˇ"},
+          {"word": "高", "bopomo": "ㄍㄠ"}
+        ],
+        "explanation": "「得」在動詞「跳」後面，說跳的高度。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 53,
+        "sentence_before_ruby": [
+          {"word": "老", "bopomo": "ㄌㄠˇ"},
+          {"word": "師", "bopomo": "ㄕ"},
+          {"word": "給", "bopomo": "ㄍㄟˇ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "的",
+        "sentence_after_ruby": [
+          {"word": "糖", "bopomo": "ㄊㄤˊ"},
+          {"word": "果", "bopomo": "ㄍㄨㄛˇ"}
+        ],
+        "explanation": "「的」後面是東西（糖果），指老師給的糖果。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 54,
+        "sentence_before_ruby": [
+          {"word": "小", "bopomo": "ㄒㄧㄠˇ"},
+          {"word": "狗", "bopomo": "ㄍㄡˇ"},
+          {"word": "叫", "bopomo": "ㄐㄧㄠˋ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "得",
+        "sentence_after_ruby": [
+          {"word": "很", "bopomo": "ㄏㄣˇ"},
+          {"word": "大", "bopomo": "ㄉㄚˋ"},
+          {"word": "聲", "bopomo": "ㄕㄥ"}
+        ],
+        "explanation": "「得」在動詞「叫」後面，說叫的聲音。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 55,
+        "sentence_before_ruby": [
+          {"word": "聰", "bopomo": "ㄘㄨㄥ"},
+          {"word": "明", "bopomo": "ㄇㄧㄥˊ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "的",
+        "sentence_after_ruby": [
+          {"word": "學", "bopomo": "ㄒㄩㄝˊ"},
+          {"word": "生", "bopomo": "ㄕㄥ"}
+        ],
+        "explanation": "「的」修飾名詞「學生」，說學生很聰明。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 56,
+        "sentence_before_ruby": [
+          {"word": "他", "bopomo": "ㄊㄚ"},
+          {"word": "說", "bopomo": "ㄕㄨㄛ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "得",
+        "sentence_after_ruby": [
+          {"word": "很", "bopomo": "ㄏㄣˇ"},
+          {"word": "有", "bopomo": "ㄧㄡˇ"},
+          {"word": "道", "bopomo": "ㄉㄠˋ", "word2": "理", "bopomo2": "ㄌㄧˇ"}
+        ],
+        "explanation": "「得」在動詞「說」後面，說說話的內容。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 57,
+        "sentence_before_ruby": [
+          {"word": "爺", "bopomo": "ㄧㄝˊ"},
+          {"word": "爺", "bopomo": "ㄧㄝ˙"},
+          {"word": "種", "bopomo": "ㄓㄨㄥˋ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "的",
+        "sentence_after_ruby": [
+          {"word": "花", "bopomo": "ㄏㄨㄚ"}
+        ],
+        "explanation": "「的」後面是東西（花），指爺爺種的花。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 58,
+        "sentence_before_ruby": [
+          {"word": "小", "bopomo": "ㄒㄧㄠˇ"},
+          {"word": "鳥", "bopomo": "ㄋㄧㄠˇ"},
+          {"word": "飛", "bopomo": "ㄈㄟ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "得",
+        "sentence_after_ruby": [
+          {"word": "高", "bopomo": "ㄍㄠ"},
+          {"word": "高", "bopomo": "ㄍㄠ"}
+        ],
+        "explanation": "「得」在動詞「飛」後面，說飛的高度。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 59,
+        "sentence_before_ruby": [
+          {"word": "這", "bopomo": "ㄓㄜˋ"},
+          {"word": "間", "bopomo": "ㄐㄧㄢ"},
+          {"word": "小", "bopomo": "ㄒㄧㄠˇ"},
+          {"word": "小", "bopomo": "ㄒㄧㄠˇ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "的",
+        "sentence_after_ruby": [
+          {"word": "房", "bopomo": "ㄈㄤˊ"},
+          {"word": "子", "bopomo": "ㄗ˙"}
+        ],
+        "explanation": "「的」修飾名詞「房子」，說房子很小。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 60,
+        "sentence_before_ruby": [
+          {"word": "魚", "bopomo": "ㄩˊ"},
+          {"word": "兒", "bopomo": "ㄦˊ"},
+          {"word": "游", "bopomo": "ㄧㄡˊ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "得",
+        "sentence_after_ruby": [
+          {"word": "很", "bopomo": "ㄏㄣˇ"},
+          {"word": "慢", "bopomo": "ㄇㄢˋ"}
+        ],
+        "explanation": "「得」在動詞「游」後面，說游的速度。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 61,
+        "sentence_before_ruby": [
+          {"word": "媽", "bopomo": "ㄇㄚ"},
+          {"word": "媽", "bopomo": "ㄇㄚ˙"},
+          {"word": "買", "bopomo": "ㄇㄞˇ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "的",
+        "sentence_after_ruby": [
+          {"word": "菜", "bopomo": "ㄘㄞˋ"}
+        ],
+        "explanation": "「的」後面是東西（菜），指媽媽買的菜。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 62,
+        "sentence_before_ruby": [
+          {"word": "我", "bopomo": "ㄨㄛˇ"},
+          {"word": "們", "bopomo": "ㄇㄣ˙"},
+          {"word": "玩", "bopomo": "ㄨㄢˊ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "得",
+        "sentence_after_ruby": [
+          {"word": "滿", "bopomo": "ㄇㄢˇ"},
+          {"word": "頭", "bopomo": "ㄊㄡˊ"},
+          {"word": "大", "bopomo": "ㄉㄚˋ"},
+          {"word": "汗", "bopomo": "ㄏㄢˋ"}
+        ],
+        "explanation": "「得」在動詞「玩」後面，說玩的結果。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 63,
+        "sentence_before_ruby": [
+          {"word": "那", "bopomo": "ㄋㄚˋ"},
+          {"word": "個", "bopomo": "ㄍㄜ˙"},
+          {"word": "舊", "bopomo": "ㄐㄧㄡˋ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "的",
+        "sentence_after_ruby": [
+          {"word": "玩", "bopomo": "ㄨㄢˊ"},
+          {"word": "具", "bopomo": "ㄐㄩˋ"}
+        ],
+        "explanation": "「的」修飾名詞「玩具」，說玩具很舊。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 64,
+        "sentence_before_ruby": [
+          {"word": "姊", "bopomo": "ㄐㄧㄝˇ"},
+          {"word": "姊", "bopomo": "ㄐㄧㄝ˙"},
+          {"word": "跑", "bopomo": "ㄆㄠˇ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "得",
+        "sentence_after_ruby": [
+          {"word": "滿", "bopomo": "ㄇㄢˇ"},
+          {"word": "身", "bopomo": "ㄕㄣ"},
+          {"word": "是", "bopomo": "ㄕˋ"},
+          {"word": "汗", "bopomo": "ㄏㄢˋ"}
+        ],
+        "explanation": "「得」在動詞「跑」後面，說跑步的結果。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 65,
+        "sentence_before_ruby": [
+          {"word": "很", "bopomo": "ㄏㄣˇ"},
+          {"word": "甜", "bopomo": "ㄊㄧㄢˊ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "的",
+        "sentence_after_ruby": [
+          {"word": "葡", "bopomo": "ㄆㄨˊ"},
+          {"word": "萄", "bopomo": "ㄊㄠ˙"}
+        ],
+        "explanation": "「的」修飾名詞「葡萄」，說葡萄很甜。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 66,
+        "sentence_before_ruby": [
+          {"word": "他", "bopomo": "ㄊㄚ"},
+          {"word": "說", "bopomo": "ㄕㄨㄛ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "得",
+        "sentence_after_ruby": [
+          {"word": "我", "bopomo": "ㄨㄛˇ"},
+          {"word": "們", "bopomo": "ㄇㄣ˙"},
+          {"word": "都", "bopomo": "ㄉㄡ"},
+          {"word": "懂", "bopomo": "ㄉㄨㄥˇ"}
+        ],
+        "explanation": "「得」在動詞「說」後面，說說話的結果。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 67,
+        "sentence_before_ruby": [
+          {"word": "窗", "bopomo": "ㄔㄨㄤ"},
+          {"word": "戶", "bopomo": "ㄏㄨˋ"},
+          {"word": "旁", "bopomo": "ㄆㄤˊ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "的",
+        "sentence_after_ruby": [
+          {"word": "花", "bopomo": "ㄏㄨㄚ"}
+        ],
+        "explanation": "「的」修飾名詞「花」，說花在哪裡。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 68,
+        "sentence_before_ruby": [
+          {"word": "我", "bopomo": "ㄨㄛˇ"},
+          {"word": "們", "bopomo": "ㄇㄣ˙"},
+          {"word": "玩", "bopomo": "ㄨㄢˊ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "得",
+        "sentence_after_ruby": [
+          {"word": "真", "bopomo": "ㄓㄣ"},
+          {"word": "高", "bopomo": "ㄍㄠ"},
+          {"word": "興", "bopomo": "ㄒㄧㄥˋ"}
+        ],
+        "explanation": "「得」在動詞「玩」後面，說玩的心情。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 69,
+        "sentence_before_ruby": [
+          {"word": "阿", "bopomo": "ㄚ"},
+          {"word": "姨", "bopomo": "ㄧˊ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "的",
+        "sentence_after_ruby": [
+          {"word": "小", "bopomo": "ㄒㄧㄠˇ"},
+          {"word": "狗", "bopomo": "ㄍㄡˇ"}
+        ],
+        "explanation": "「的」表示阿姨擁有小狗。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 70,
+        "sentence_before_ruby": [
+          {"word": "弟", "bopomo": "ㄉㄧˋ"},
+          {"word": "弟", "bopomo": "ㄉㄧ˙"},
+          {"word": "睡", "bopomo": "ㄕㄨㄟˋ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "得",
+        "sentence_after_ruby": [
+          {"word": "很", "bopomo": "ㄏㄣˇ"},
+          {"word": "沉", "bopomo": "ㄔㄣˊ"}
+        ],
+        "explanation": "「得」在動詞「睡」後面，說睡覺的樣子。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 71,
+        "sentence_before_ruby": [
+          {"word": "舊", "bopomo": "ㄐㄧㄡˋ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "的",
+        "sentence_after_ruby": [
+          {"word": "衣", "bopomo": "ㄧ"},
+          {"word": "服", "bopomo": "ㄈㄨˊ"}
+        ],
+        "explanation": "「的」修飾名詞「衣服」，說衣服很舊。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 72,
+        "sentence_before_ruby": [
+          {"word": "他", "bopomo": "ㄊㄚ"},
+          {"word": "笑", "bopomo": "ㄒㄧㄠˋ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "得",
+        "sentence_after_ruby": [
+          {"word": "喘", "bopomo": "ㄔㄨㄢˇ"},
+          {"word": "不", "bopomo": "ㄅㄨˋ"},
+          {"word": "過", "bopomo": "ㄍㄨㄛˋ"},
+          {"word": "氣", "bopomo": "ㄑㄧˋ"}
+        ],
+        "explanation": "「得」在動詞「笑」後面，說笑的結果。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 73,
+        "sentence_before_ruby": [
+          {"word": "媽", "bopomo": "ㄇㄚ"},
+          {"word": "媽", "bopomo": "ㄇㄚ˙"},
+          {"word": "送", "bopomo": "ㄙㄨㄥˋ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "的",
+        "sentence_after_ruby": [
+          {"word": "玩", "bopomo": "ㄨㄢˊ"},
+          {"word": "具", "bopomo": "ㄐㄩˋ"}
+        ],
+        "explanation": "「的」後面是東西（玩具），指媽媽送的玩具。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 74,
+        "sentence_before_ruby": [
+          {"word": "我", "bopomo": "ㄨㄛˇ"},
+          {"word": "寫", "bopomo": "ㄒㄧㄝˇ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "得",
+        "sentence_after_ruby": [
+          {"word": "很", "bopomo": "ㄏㄣˇ"},
+          {"word": "認", "bopomo": "ㄖㄣˋ"},
+          {"word": "真", "bopomo": "ㄓㄣ"}
+        ],
+        "explanation": "「得」在動詞「寫」後面，說寫字的態度。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 75,
+        "sentence_before_ruby": [
+          {"word": "白", "bopomo": "ㄅㄞˊ"},
+          {"word": "白", "bopomo": "ㄅㄞˊ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "的",
+        "sentence_after_ruby": [
+          {"word": "小", "bopomo": "ㄒㄧㄠˇ"},
+          {"word": "兔", "bopomo": "ㄊㄨˋ"}
+        ],
+        "explanation": "「的」修飾名詞「小兔」，說小兔的顏色。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 76,
+        "sentence_before_ruby": [
+          {"word": "大", "bopomo": "ㄉㄚˋ"},
+          {"word": "家", "bopomo": "ㄐㄧㄚ"},
+          {"word": "叫", "bopomo": "ㄐㄧㄠˋ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "得",
+        "sentence_after_ruby": [
+          {"word": "好", "bopomo": "ㄏㄠˇ"},
+          {"word": "大", "bopomo": "ㄉㄚˋ"},
+          {"word": "聲", "bopomo": "ㄕㄥ"}
+        ],
+        "explanation": "「得」在動詞「叫」後面，說叫的聲音大小。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 77,
+        "sentence_before_ruby": [
+          {"word": "圓", "bopomo": "ㄩㄢˊ"},
+          {"word": "桌", "bopomo": "ㄓㄨㄛ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "的",
+        "sentence_after_ruby": [
+          {"word": "椅", "bopomo": "ㄧˇ"},
+          {"word": "子", "bopomo": "ㄗ˙"}
+        ],
+        "explanation": "「的」修飾名詞「椅子」，說椅子是圓桌旁邊的。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 78,
+        "sentence_before_ruby": [
+          {"word": "媽", "bopomo": "ㄇㄚ"},
+          {"word": "媽", "bopomo": "ㄇㄚ˙"},
+          {"word": "累", "bopomo": "ㄌㄟˋ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "得",
+        "sentence_after_ruby": [
+          {"word": "睡", "bopomo": "ㄕㄨㄟˋ"},
+          {"word": "著", "bopomo": "ㄓㄠˊ"},
+          {"word": "了", "bopomo": "ㄌㄜ˙"}
+        ],
+        "explanation": "「得」在形容詞「累」後面，說疲累的結果。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 79,
+        "sentence_before_ruby": [
+          {"word": "漂", "bopomo": "ㄆㄧㄠˋ"},
+          {"word": "亮", "bopomo": "ㄌㄧㄤˋ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "的",
+        "sentence_after_ruby": [
+          {"word": "公", "bopomo": "ㄍㄨㄥ"},
+          {"word": "主", "bopomo": "ㄓㄨˇ"}
+        ],
+        "explanation": "「的」修飾名詞「公主」，說公主很漂亮。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 80,
+        "sentence_before_ruby": [
+          {"word": "小", "bopomo": "ㄒㄧㄠˇ"},
+          {"word": "狗", "bopomo": "ㄍㄡˇ"},
+          {"word": "跑", "bopomo": "ㄆㄠˇ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "得",
+        "sentence_after_ruby": [
+          {"word": "很", "bopomo": "ㄏㄣˇ"},
+          {"word": "喘", "bopomo": "ㄔㄨㄢˇ"}
+        ],
+        "explanation": "「得」在動詞「跑」後面，說跑步的結果。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 81,
+        "sentence_before_ruby": [
+          {"word": "樹", "bopomo": "ㄕㄨˋ"},
+          {"word": "上", "bopomo": "ㄕㄤˋ"},
+          {"word": "長", "bopomo": "ㄓㄤˇ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "的",
+        "sentence_after_ruby": [
+          {"word": "果", "bopomo": "ㄍㄨㄛˇ"},
+          {"word": "實", "bopomo": "ㄕˊ"}
+        ],
+        "explanation": "「的」後面是東西（果實），指樹上長的果實。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 82,
+        "sentence_before_ruby": [
+          {"word": "他", "bopomo": "ㄊㄚ"},
+          {"word": "吃", "bopomo": "ㄔ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "得",
+        "sentence_after_ruby": [
+          {"word": "很", "bopomo": "ㄏㄣˇ"},
+          {"word": "慢", "bopomo": "ㄇㄢˋ"}
+        ],
+        "explanation": "「得」在動詞「吃」後面，說吃的速度。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 83,
+        "sentence_before_ruby": [
+          {"word": "我", "bopomo": "ㄨㄛˇ"},
+          {"word": "們", "bopomo": "ㄇㄣ˙"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "的",
+        "sentence_after_ruby": [
+          {"word": "家", "bopomo": "ㄐㄧㄚ"}
+        ],
+        "explanation": "「的」表示我們擁有這個家。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 84,
+        "sentence_before_ruby": [
+          {"word": "妹", "bopomo": "ㄇㄟˋ"},
+          {"word": "妹", "bopomo": "ㄇㄟ˙"},
+          {"word": "哭", "bopomo": "ㄎㄨ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "得",
+        "sentence_after_ruby": [
+          {"word": "眼", "bopomo": "ㄧㄢˇ"},
+          {"word": "睛", "bopomo": "ㄐㄧㄥ"},
+          {"word": "都", "bopomo": "ㄉㄡ"},
+          {"word": "紅", "bopomo": "ㄏㄨㄥˊ"}
+        ],
+        "explanation": "「得」在動詞「哭」後面，說哭的結果。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 85,
+        "sentence_before_ruby": [
+          {"word": "好", "bopomo": "ㄏㄠˇ"},
+          {"word": "聽", "bopomo": "ㄊㄧㄥ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "的",
+        "sentence_after_ruby": [
+          {"word": "歌", "bopomo": "ㄍㄜ"}
+        ],
+        "explanation": "「的」修飾名詞「歌」，說歌很好聽。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 86,
+        "sentence_before_ruby": [
+          {"word": "他", "bopomo": "ㄊㄚ"},
+          {"word": "跳", "bopomo": "ㄊㄧㄠˋ"},
+          {"word": "舞", "bopomo": "ㄨˇ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "得",
+        "sentence_after_ruby": [
+          {"word": "很", "bopomo": "ㄏㄣˇ"},
+          {"word": "棒", "bopomo": "ㄅㄤˋ"}
+        ],
+        "explanation": "「得」在動詞「跳舞」後面，說跳舞的結果。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 87,
+        "sentence_before_ruby": [
+          {"word": "長", "bopomo": "ㄔㄤˊ"},
+          {"word": "長", "bopomo": "ㄔㄤˊ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "的",
+        "sentence_after_ruby": [
+          {"word": "繩", "bopomo": "ㄕㄥˊ"},
+          {"word": "子", "bopomo": "ㄗ˙"}
+        ],
+        "explanation": "「的」修飾名詞「繩子」，說繩子很長。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 88,
+        "sentence_before_ruby": [
+          {"word": "鳥", "bopomo": "ㄋㄧㄠˇ"},
+          {"word": "叫", "bopomo": "ㄐㄧㄠˋ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "得",
+        "sentence_after_ruby": [
+          {"word": "很", "bopomo": "ㄏㄣˇ"},
+          {"word": "悅", "bopomo": "ㄩㄝˋ"},
+          {"word": "耳", "bopomo": "ㄦˇ"}
+        ],
+        "explanation": "「得」在動詞「叫」後面，說叫聲的感覺。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 89,
+        "sentence_before_ruby": [
+          {"word": "昨", "bopomo": "ㄗㄨㄛˊ"},
+          {"word": "天", "bopomo": "ㄊㄧㄢ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "的",
+        "sentence_after_ruby": [
+          {"word": "電", "bopomo": "ㄉㄧㄢˋ"},
+          {"word": "影", "bopomo": "ㄧㄥˇ"}
+        ],
+        "explanation": "「的」修飾名詞「電影」，指昨天看的電影。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 90,
+        "sentence_before_ruby": [
+          {"word": "我", "bopomo": "ㄨㄛˇ"},
+          {"word": "被", "bopomo": "ㄅㄟˋ"},
+          {"word": "蚊", "bopomo": "ㄨㄣˊ"},
+          {"word": "子", "bopomo": "ㄗ˙"},
+          {"word": "叮", "bopomo": "ㄉㄧㄥ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "得",
+        "sentence_after_ruby": [
+          {"word": "好", "bopomo": "ㄏㄠˇ"},
+          {"word": "癢", "bopomo": "ㄧㄤˇ"}
+        ],
+        "explanation": "「得」在動詞「叮」後面，說叮咬的結果。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 91,
+        "sentence_before_ruby": [
+          {"word": "我", "bopomo": "ㄨㄛˇ"},
+          {"word": "們", "bopomo": "ㄇㄣ˙"},
+          {"word": "班", "bopomo": "ㄅㄢ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "的",
+        "sentence_after_ruby": [
+          {"word": "老", "bopomo": "ㄌㄠˇ"},
+          {"word": "師", "bopomo": "ㄕ"}
+        ],
+        "explanation": "「的」表示班級擁有這位老師。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 92,
+        "sentence_before_ruby": [
+          {"word": "他", "bopomo": "ㄊㄚ"},
+          {"word": "哭", "bopomo": "ㄎㄨ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "得",
+        "sentence_after_ruby": [
+          {"word": "沒", "bopomo": "ㄇㄟˊ"},
+          {"word": "有", "bopomo": "ㄧㄡˇ"},
+          {"word": "聲", "bopomo": "ㄕㄥ"}
+        ],
+        "explanation": "「得」在動詞「哭」後面，說哭的狀態。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 93,
+        "sentence_before_ruby": [
+          {"word": "新", "bopomo": "ㄒㄧㄣ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "的",
+        "sentence_after_ruby": [
+          {"word": "書", "bopomo": "ㄕㄨ"}
+        ],
+        "explanation": "「的」修飾名詞「書」，說書是新的。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 94,
+        "sentence_before_ruby": [
+          {"word": "弟", "bopomo": "ㄉㄧˋ"},
+          {"word": "弟", "bopomo": "ㄉㄧ˙"},
+          {"word": "開", "bopomo": "ㄎㄞ"},
+          {"word": "心", "bopomo": "ㄒㄧㄣ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "得",
+        "sentence_after_ruby": [
+          {"word": "跳", "bopomo": "ㄊㄧㄠˋ"},
+          {"word": "起", "bopomo": "ㄑㄧˇ"},
+          {"word": "來", "bopomo": "ㄌㄞˊ"}
+        ],
+        "explanation": "「得」在形容詞「開心」後面，說開心的結果。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 95,
+        "sentence_before_ruby": [
+          {"word": "紅", "bopomo": "ㄏㄨㄥˊ"},
+          {"word": "色", "bopomo": "ㄙㄜˋ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "的",
+        "sentence_after_ruby": [
+          {"word": "帽", "bopomo": "ㄇㄠˋ"},
+          {"word": "子", "bopomo": "ㄗ˙"}
+        ],
+        "explanation": "「的」修飾名詞「帽子」，說帽子的顏色。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 96,
+        "sentence_before_ruby": [
+          {"word": "她", "bopomo": "ㄊㄚ"},
+          {"word": "唱", "bopomo": "ㄔㄤˋ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "得",
+        "sentence_after_ruby": [
+          {"word": "好", "bopomo": "ㄏㄠˇ"},
+          {"word": "動", "bopomo": "ㄉㄨㄥˋ"},
+          {"word": "聽", "bopomo": "ㄊㄧㄥ"}
+        ],
+        "explanation": "「得」在動詞「唱」後面，說唱歌的結果。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 97,
+        "sentence_before_ruby": [
+          {"word": "圓", "bopomo": "ㄩㄢˊ"},
+          {"word": "圓", "bopomo": "ㄩㄢˊ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "的",
+        "sentence_after_ruby": [
+          {"word": "皮", "bopomo": "ㄆㄧˊ"},
+          {"word": "球", "bopomo": "ㄑㄧㄡˊ"}
+        ],
+        "explanation": "「的」修飾名詞「皮球」，說皮球的形狀。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 98,
+        "sentence_before_ruby": [
+          {"word": "他", "bopomo": "ㄊㄚ"},
+          {"word": "累", "bopomo": "ㄌㄟˋ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "得",
+        "sentence_after_ruby": [
+          {"word": "一", "bopomo": "ㄧˋ"},
+          {"word": "動", "bopomo": "ㄉㄨㄥˋ"},
+          {"word": "也", "bopomo": "ㄧㄝˇ"},
+          {"word": "不", "bopomo": "ㄅㄨˋ"},
+          {"word": "能", "bopomo": "ㄋㄥˊ"}
+        ],
+        "explanation": "「得」在形容詞「累」後面，說疲累的程度。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 99,
+        "sentence_before_ruby": [
+          {"word": "會", "bopomo": "ㄏㄨㄟˋ"},
+          {"word": "飛", "bopomo": "ㄈㄟ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "的",
+        "sentence_after_ruby": [
+          {"word": "鳥", "bopomo": "ㄋㄧㄠˇ"}
+        ],
+        "explanation": "「的」修飾名詞「鳥」，說鳥會飛。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      },
+      {
+        "id": 100,
+        "sentence_before_ruby": [
+          {"word": "小", "bopomo": "ㄒㄧㄠˇ"},
+          {"word": "狗", "bopomo": "ㄍㄡˇ"},
+          {"word": "跑", "bopomo": "ㄆㄠˇ"}
+        ],
+        "gap_options": ["的", "得"],
+        "answer": "得",
+        "sentence_after_ruby": [
+          {"word": "滿", "bopomo": "ㄇㄢˇ"},
+          {"word": "地", "bopomo": "ㄉㄧˋ"},
+          {"word": "泥", "bopomo": "ㄋㄧˊ"},
+          {"word": "巴", "bopomo": "ㄅㄚ"}
+        ],
+        "explanation": "「得」在動詞「跑」後面，說跑步的結果。",
+        "gap_options_bopomo": ["ㄉㄜ˙", "ㄉㄜˊ"]
+      }
+    ]
+  },
+  "group_zai": {
+    "title": "「在」 (ㄗㄞˋ) vs 「再」 (ㄗㄞˋ) 練習 (共 50 題)",
+    "questions": [
+      {
+        "id": 101,
+        "sentence_before_ruby": [
+          {"word": "弟", "bopomo": "ㄉㄧˋ"},
+          {"word": "弟", "bopomo": "ㄉㄧ˙"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "在",
+        "sentence_after_ruby": [
+          {"word": "公", "bopomo": "ㄍㄨㄥ"},
+          {"word": "園", "bopomo": "ㄩㄢˊ"},
+          {"word": "玩", "bopomo": "ㄨㄢˊ"}
+        ],
+        "explanation": "「在」是說地點（公園）。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 102,
+        "sentence_before_ruby": [
+          {"word": "我", "bopomo": "ㄨㄛˇ"},
+          {"word": "還", "bopomo": "ㄏㄞˊ"},
+          {"word": "想", "bopomo": "ㄒㄧㄤˇ"},
+          {"word": "吃", "bopomo": "ㄔ"},
+          {"word": "，", "bopomo": ""},
+          {"word": "請", "bopomo": "ㄑㄧㄥˇ"},
+          {"word": "給", "bopomo": "ㄍㄟˇ"},
+          {"word": "我", "bopomo": "ㄨㄛˇ"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "再",
+        "sentence_after_ruby": [
+          {"word": "一", "bopomo": "ㄧˋ"},
+          {"word": "塊", "bopomo": "ㄎㄨㄞˋ"},
+          {"word": "蛋", "bopomo": "ㄉㄢˋ"},
+          {"word": "糕", "bopomo": "ㄍㄠ"}
+        ],
+        "explanation": "「再」是說多給一個。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 103,
+        "sentence_before_ruby": [
+          {"word": "媽", "bopomo": "ㄇㄚ"},
+          {"word": "媽", "bopomo": "ㄇㄚ˙"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "在",
+        "sentence_after_ruby": [
+          {"word": "煮", "bopomo": "ㄓㄨˇ"},
+          {"word": "飯", "bopomo": "ㄈㄢˋ"}
+        ],
+        "explanation": "「在」表示正在做某事。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 104,
+        "sentence_before_ruby": [
+          {"word": "沒", "bopomo": "ㄇㄟˊ"},
+          {"word": "關", "bopomo": "ㄍㄨㄢ"},
+          {"word": "係", "bopomo": "ㄒㄧ˙"},
+          {"word": "，", "bopomo": ""},
+          {"word": "我", "bopomo": "ㄨㄛˇ"},
+          {"word": "們", "bopomo": "ㄇㄣ˙"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "再",
+        "sentence_after_ruby": [
+          {"word": "試", "bopomo": "ㄕˋ"},
+          {"word": "一", "bopomo": "ㄧˊ"},
+          {"word": "次", "bopomo": "ㄘˋ"}
+        ],
+        "explanation": "「再」表示重複做一次。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 105,
+        "sentence_before_ruby": [
+          {"word": "書", "bopomo": "ㄕㄨ"},
+          {"word": "本", "bopomo": "ㄅㄣˇ"},
+          {"word": "放", "bopomo": "ㄈㄤˋ"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "在",
+        "sentence_after_ruby": [
+          {"word": "桌", "bopomo": "ㄓㄨㄛ"},
+          {"word": "上", "bopomo": "ㄕㄤˋ"}
+        ],
+        "explanation": "「在」是說地點（桌上）。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 106,
+        "sentence_before_ruby": [
+          {"word": "等", "bopomo": "ㄉㄥˇ"},
+          {"word": "你", "bopomo": "ㄋㄧˇ"},
+          {"word": "寫", "bopomo": "ㄒㄧㄝˇ"},
+          {"word": "完", "bopomo": "ㄨㄢˊ"},
+          {"word": "功", "bopomo": "ㄍㄨㄥ"},
+          {"word": "課", "bopomo": "ㄎㄜˋ"},
+          {"word": "，", "bopomo": ""}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "再",
+        "sentence_after_ruby": [
+          {"word": "去", "bopomo": "ㄑㄩˋ"},
+          {"word": "看", "bopomo": "ㄎㄢˋ"},
+          {"word": "電", "bopomo": "ㄉㄧㄢˋ"},
+          {"word": "視", "bopomo": "ㄕˋ"}
+        ],
+        "explanation": "「再」表示先做完一件事，然後才做下一件。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 107,
+        "sentence_before_ruby": [
+          {"word": "老", "bopomo": "ㄌㄠˇ"},
+          {"word": "師", "bopomo": "ㄕ"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "在",
+        "sentence_after_ruby": [
+          {"word": "講", "bopomo": "ㄐㄧㄤˇ"},
+          {"word": "故", "bopomo": "ㄍㄨˋ"},
+          {"word": "事", "bopomo": "ㄕˋ"}
+        ],
+        "explanation": "「在」表示正在做某事。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 108,
+        "sentence_before_ruby": [
+          {"word": "我", "bopomo": "ㄨㄛˇ"},
+          {"word": "不", "bopomo": "ㄅㄨˋ"},
+          {"word": "想"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "再",
+        "sentence_after_ruby": [
+          {"word": "說", "bopomo": "ㄕㄨㄛ"},
+          {"word": "一", "bopomo": "ㄧˊ"},
+          {"word": "次", "bopomo": "ㄘˋ"},
+          {"word": "了", "bopomo": "ㄌㄜ˙"}
+        ],
+        "explanation": "「再」表示不願意重複。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 109,
+        "sentence_before_ruby": [
+          {"word": "小", "bopomo": "ㄒㄧㄠˇ"},
+          {"word": "花", "bopomo": "ㄏㄨㄚ"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "在",
+        "sentence_after_ruby": [
+          {"word": "睡", "bopomo": "ㄕㄨㄟˋ"},
+          {"word": "覺", "bopomo": "ㄐㄧㄠˋ"}
+        ],
+        "explanation": "「在」表示正在做某事。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 110,
+        "sentence_before_ruby": [
+          {"word": "請", "bopomo": "ㄑㄧㄥˇ"},
+          {"word": "你"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "再",
+        "sentence_after_ruby": [
+          {"word": "等", "bopomo": "ㄉㄥˇ"},
+          {"word": "我", "bopomo": "ㄨㄛˇ"},
+          {"word": "一", "bopomo": "ㄧˋ"},
+          {"word": "會", "bopomo": "ㄏㄨㄟˇ"}
+        ],
+        "explanation": "「再」表示多加一點時間。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 111,
+        "sentence_before_ruby": [
+          {"word": "魚", "bopomo": "ㄩˊ"},
+          {"word": "兒", "bopomo": "ㄦˊ"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "在",
+        "sentence_after_ruby": [
+          {"word": "水", "bopomo": "ㄕㄨㄟˇ"},
+          {"word": "裡", "bopomo": "ㄌㄧˇ"},
+          {"word": "游", "bopomo": "ㄧㄡˊ"}
+        ],
+        "explanation": "「在」是說地點（水裡）。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 112,
+        "sentence_before_ruby": [
+          {"word": "如", "bopomo": "ㄖㄨˊ"},
+          {"word": "果", "bopomo": "ㄍㄨㄛˇ"},
+          {"word": "下", "bopomo": "ㄒㄧㄚˋ"},
+          {"word": "雨", "bopomo": "ㄩˇ"},
+          {"word": "，", "bopomo": ""},
+          {"word": "就"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "在",
+        "sentence_after_ruby": [
+          {"word": "家", "bopomo": "ㄐㄧㄚ"},
+          {"word": "裡", "bopomo": "ㄌㄧˇ"},
+          {"word": "玩", "bopomo": "ㄨㄢˊ"}
+        ],
+        "explanation": "「在」是說地點（家裡）。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 113,
+        "sentence_before_ruby": [
+          {"word": "我", "bopomo": "ㄨㄛˇ"},
+          {"word": "已", "bopomo": "ㄧˇ"},
+          {"word": "經", "bopomo": "ㄐㄧㄥ"},
+          {"word": "飽", "bopomo": "ㄅㄠˇ"},
+          {"word": "了", "bopomo": "ㄌㄜ˙"},
+          {"word": "，", "bopomo": ""},
+          {"word": "不", "bopomo": "ㄅㄨˋ"},
+          {"word": "能"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "再",
+        "sentence_after_ruby": [
+          {"word": "吃", "bopomo": "ㄔ"},
+          {"word": "了", "bopomo": "ㄌㄜ˙"}
+        ],
+        "explanation": "「再」表示不能繼續。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 114,
+        "sentence_before_ruby": [
+          {"word": "明", "bopomo": "ㄇㄧㄥˊ"},
+          {"word": "天", "bopomo": "ㄊㄧㄢ"},
+          {"word": "見", "bopomo": "ㄐㄧㄢˋ"},
+          {"word": "，", "bopomo": ""}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "再",
+        "sentence_after_ruby": [
+          {"word": "會", "bopomo": "ㄏㄨㄟˋ"},
+          {"word": "囉", "bopomo": "ㄌㄛ˙"}
+        ],
+        "explanation": "「再」表示下次見面。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 115,
+        "sentence_before_ruby": [
+          {"word": "姊", "bopomo": "ㄐㄧㄝˇ"},
+          {"word": "姊", "bopomo": "ㄐㄧㄝ˙"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "在",
+        "sentence_after_ruby": [
+          {"word": "看", "bopomo": "ㄎㄢˋ"},
+          {"word": "漫", "bopomo": "ㄇㄢˋ"},
+          {"word": "畫", "bopomo": "ㄏㄨㄚˋ"},
+          {"word": "書", "bopomo": "ㄕㄨ"}
+        ],
+        "explanation": "「在」表示正在做某事。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 116,
+        "sentence_before_ruby": [
+          {"word": "你", "bopomo": "ㄋㄧˇ"},
+          {"word": "先", "bopomo": "ㄒㄧㄢ"},
+          {"word": "走", "bopomo": "ㄗㄡˇ"},
+          {"word": "，", "bopomo": ""},
+          {"word": "我"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "再",
+        "sentence_after_ruby": [
+          {"word": "跟", "bopomo": "ㄍㄣ"},
+          {"word": "上", "bopomo": "ㄕㄤˋ"}
+        ],
+        "explanation": "「再」表示後續的動作。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 117,
+        "sentence_before_ruby": [
+          {"word": "玩", "bopomo": "ㄨㄢˊ"},
+          {"word": "具", "bopomo": "ㄐㄩˋ"},
+          {"word": "收", "bopomo": "ㄕㄡ"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "在",
+        "sentence_after_ruby": [
+          {"word": "盒", "bopomo": "ㄏㄜˊ"},
+          {"word": "子", "bopomo": "ㄗ˙"},
+          {"word": "裡", "bopomo": "ㄌㄧˇ"}
+        ],
+        "explanation": "「在」是說地點（盒子裡）。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 118,
+        "sentence_before_ruby": [
+          {"word": "請", "bopomo": "ㄑㄧㄥˇ"},
+          {"word": "給", "bopomo": "ㄍㄟˇ"},
+          {"word": "他"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "再",
+        "sentence_after_ruby": [
+          {"word": "多", "bopomo": "ㄉㄨㄛ"},
+          {"word": "一", "bopomo": "ㄧˋ"},
+          {"word": "點", "bopomo": "ㄉㄧㄢˇ"},
+          {"word": "水", "bopomo": "ㄕㄨㄟˇ"}
+        ],
+        "explanation": "「再」表示數量上的增加。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 119,
+        "sentence_before_ruby": [
+          {"word": "爸", "bopomo": "ㄅㄚˋ"},
+          {"word": "爸", "bopomo": "ㄅㄚ˙"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "在",
+        "sentence_after_ruby": [
+          {"word": "門", "bopomo": "ㄇㄣˊ"},
+          {"word": "口", "bopomo": "ㄎㄡˇ"},
+          {"word": "等", "bopomo": "ㄉㄥˇ"},
+          {"word": "我", "bopomo": "ㄨㄛˇ"}
+        ],
+        "explanation": "「在」是說地點（門口）。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 120,
+        "sentence_before_ruby": [
+          {"word": "他", "bopomo": "ㄊㄚ"},
+          {"word": "還", "bopomo": "ㄏㄞˊ"},
+          {"word": "想"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "再",
+        "sentence_after_ruby": [
+          {"word": "去", "bopomo": "ㄑㄩˋ"},
+          {"word": "一", "bopomo": "ㄧˊ"},
+          {"word": "次", "bopomo": "ㄘˋ"},
+          {"word": "遊", "bopomo": "ㄧㄡˊ"},
+          {"word": "樂", "bopomo": "ㄌㄜˋ"},
+          {"word": "園", "bopomo": "ㄩㄢˊ"}
+        ],
+        "explanation": "「再」表示重複去。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 121,
+        "sentence_before_ruby": [
+          {"word": "弟", "bopomo": "ㄉㄧˋ"},
+          {"word": "弟", "bopomo": "ㄉㄧ˙"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "在",
+        "sentence_after_ruby": [
+          {"word": "哭", "bopomo": "ㄎㄨ"}
+        ],
+        "explanation": "「在」表示正在做某事。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 122,
+        "sentence_before_ruby": [
+          {"word": "我", "bopomo": "ㄨㄛˇ"},
+          {"word": "不", "bopomo": "ㄅㄨˋ"},
+          {"word": "喜", "bopomo": "ㄒㄧˇ"},
+          {"word": "歡", "bopomo": "ㄏㄨㄢ"},
+          {"word": "，", "bopomo": ""},
+          {"word": "你"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "再",
+        "sentence_after_ruby": [
+          {"word": "換", "bopomo": "ㄏㄨㄢˋ"},
+          {"word": "一", "bopomo": "ㄧˊ"},
+          {"word": "個", "bopomo": "ㄍㄜ˙"}
+        ],
+        "explanation": "「再」表示替換，要求另一個。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 123,
+        "sentence_before_ruby": [
+          {"word": "貓", "bopomo": "ㄇㄠ"},
+          {"word": "咪", "bopomo": "ㄇㄧ"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "在",
+        "sentence_after_ruby": [
+          {"word": "沙", "bopomo": "ㄕㄚ"},
+          {"word": "發", "bopomo": "ㄈㄚ"},
+          {"word": "上", "bopomo": "ㄕㄤˋ"}
+        ],
+        "explanation": "「在」是說地點（沙發上）。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 124,
+        "sentence_before_ruby": [
+          {"word": "這", "bopomo": "ㄓㄜˋ"},
+          {"word": "個", "bopomo": "ㄍㄜ˙"},
+          {"word": "字", "bopomo": "ㄗˋ"},
+          {"word": "寫", "bopomo": "ㄒㄧㄝˇ"},
+          {"word": "錯", "bopomo": "ㄘㄨㄛˋ"},
+          {"word": "了", "bopomo": "ㄌㄜ˙"},
+          {"word": "，", "bopomo": ""},
+          {"word": "請"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "再",
+        "sentence_after_ruby": [
+          {"word": "寫", "bopomo": "ㄒㄧㄝˇ"},
+          {"word": "一", "bopomo": "ㄧˊ"},
+          {"word": "次", "bopomo": "ㄘˋ"}
+        ],
+        "explanation": "「再」表示重複做一次。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 125,
+        "sentence_before_ruby": [
+          {"word": "小", "bopomo": "ㄒㄧㄠˇ"},
+          {"word": "狗", "bopomo": "ㄍㄡˇ"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "在",
+        "sentence_after_ruby": [
+          {"word": "叫", "bopomo": "ㄐㄧㄠˋ"}
+        ],
+        "explanation": "「在」表示正在做某事。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 126,
+        "sentence_before_ruby": [
+          {"word": "等", "bopomo": "ㄉㄥˇ"},
+          {"word": "等", "bopomo": "ㄉㄥˇ"},
+          {"word": "我", "bopomo": "ㄨㄛˇ"},
+          {"word": "們"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "再",
+        "sentence_after_ruby": [
+          {"word": "一", "bopomo": "ㄧˋ"},
+          {"word": "起", "bopomo": "ㄑㄧˇ"},
+          {"word": "去", "bopomo": "ㄑㄩˋ"}
+        ],
+        "explanation": "「再」表示等一下才一起去。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 127,
+        "sentence_before_ruby": [
+          {"word": "太", "bopomo": "ㄊㄞˋ"},
+          {"word": "陽", "bopomo": "ㄧㄤˊ"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "在",
+        "sentence_after_ruby": [
+          {"word": "天", "bopomo": "ㄊㄧㄢ"},
+          {"word": "上", "bopomo": "ㄕㄤˋ"}
+        ],
+        "explanation": "「在」是說地點（天上）。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 128,
+        "sentence_before_ruby": [
+          {"word": "他", "bopomo": "ㄊㄚ"},
+          {"word": "們", "bopomo": "ㄇㄣ˙"},
+          {"word": "約", "bopomo": "ㄩㄝ"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "再",
+        "sentence_after_ruby": [
+          {"word": "見", "bopomo": "ㄐㄧㄢˋ"},
+          {"word": "面", "bopomo": "ㄇㄧㄢˋ"}
+        ],
+        "explanation": "「再」表示重複見面。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 129,
+        "sentence_before_ruby": [
+          {"word": "老", "bopomo": "ㄌㄠˇ"},
+          {"word": "師", "bopomo": "ㄕ"},
+          {"word": "請", "bopomo": "ㄑㄧㄥˇ"},
+          {"word": "我", "bopomo": "ㄨㄛˇ"},
+          {"word": "們"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "在",
+        "sentence_after_ruby": [
+          {"word": "教", "bopomo": "ㄐㄧㄠˋ"},
+          {"word": "室", "bopomo": "ㄕˋ"},
+          {"word": "裡", "bopomo": "ㄌㄧˇ"},
+          {"word": "畫", "bopomo": "ㄏㄨㄚˋ"},
+          {"word": "圖", "bopomo": "ㄊㄨˊ"}
+        ],
+        "explanation": "「在」是說地點（教室裡）。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 130,
+        "sentence_before_ruby": [
+          {"word": "飯", "bopomo": "ㄈㄢˋ"},
+          {"word": "後"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "再",
+        "sentence_after_ruby": [
+          {"word": "吃", "bopomo": "ㄔ"},
+          {"word": "水", "bopomo": "ㄕㄨㄟˇ"},
+          {"word": "果", "bopomo": "ㄍㄨㄛˇ"}
+        ],
+        "explanation": "「再」表示先吃完飯，然後才吃水果。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 131,
+        "sentence_before_ruby": [
+          {"word": "小", "bopomo": "ㄒㄧㄠˇ"},
+          {"word": "朋", "bopomo": "ㄆㄥˊ"},
+          {"word": "友", "bopomo": "ㄧㄡˇ"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "在",
+        "sentence_after_ruby": [
+          {"word": "唱", "bopomo": "ㄔㄤˋ"},
+          {"word": "歌", "bopomo": "ㄍㄜ"}
+        ],
+        "explanation": "「在」表示正在做某事。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 132,
+        "sentence_before_ruby": [
+          {"word": "幫", "bopomo": "ㄅㄤ"},
+          {"word": "我"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "再",
+        "sentence_after_ruby": [
+          {"word": "檢", "bopomo": "ㄐㄧㄢˇ"},
+          {"word": "查", "bopomo": "ㄔㄚˊ"},
+          {"word": "一", "bopomo": "ㄧˊ"},
+          {"word": "下", "bopomo": "ㄒㄧㄚˋ"}
+        ],
+        "explanation": "「再」表示重複檢查。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 133,
+        "sentence_before_ruby": [
+          {"word": "我", "bopomo": "ㄨㄛˇ"},
+          {"word": "的", "bopomo": "ㄉㄜ˙"},
+          {"word": "新", "bopomo": "ㄒㄧㄣ"},
+          {"word": "書"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "在",
+        "sentence_after_ruby": [
+          {"word": "櫃", "bopomo": "ㄍㄨㄟˋ"},
+          {"word": "子", "bopomo": "ㄗ˙"},
+          {"word": "裡", "bopomo": "ㄌㄧˇ"}
+        ],
+        "explanation": "「在」是說地點（櫃子裡）。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 134,
+        "sentence_before_ruby": [
+          {"word": "我", "bopomo": "ㄨㄛˇ"},
+          {"word": "想"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "再",
+        "sentence_after_ruby": [
+          {"word": "睡", "bopomo": "ㄕㄨㄟˋ"},
+          {"word": "一", "bopomo": "ㄧˊ"},
+          {"word": "會", "bopomo": "ㄏㄨㄟˇ"},
+          {"word": "兒", "bopomo": "ㄦ˙"}
+        ],
+        "explanation": "「再」表示繼續、多一點時間。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 135,
+        "sentence_before_ruby": [
+          {"word": "魚", "bopomo": "ㄩˊ"},
+          {"word": "兒"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "在",
+        "sentence_after_ruby": [
+          {"word": "水", "bopomo": "ㄕㄨㄟˇ"},
+          {"word": "裡", "bopomo": "ㄌㄧˇ"}
+        ],
+        "explanation": "「在」是說地點（水裡）。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 136,
+        "sentence_before_ruby": [
+          {"word": "這", "bopomo": "ㄓㄜˋ"},
+          {"word": "題", "bopomo": "ㄊㄧˊ"},
+          {"word": "很", "bopomo": "ㄏㄣˇ"},
+          {"word": "難", "bopomo": "ㄋㄢˊ"},
+          {"word": "，", "bopomo": ""},
+          {"word": "請"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "再",
+        "sentence_after_ruby": [
+          {"word": "教", "bopomo": "ㄐㄧㄠ"},
+          {"word": "我", "bopomo": "ㄨㄛˇ"},
+          {"word": "一", "bopomo": "ㄧˊ"},
+          {"word": "次", "bopomo": "ㄘˋ"}
+        ],
+        "explanation": "「再」表示重複教。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 137,
+        "sentence_before_ruby": [
+          {"word": "大", "bopomo": "ㄉㄚˋ"},
+          {"word": "家"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "在",
+        "sentence_after_ruby": [
+          {"word": "看", "bopomo": "ㄎㄢˋ"},
+          {"word": "表", "bopomo": "ㄅㄧㄠˇ"},
+          {"word": "演", "bopomo": "ㄧㄢˇ"}
+        ],
+        "explanation": "「在」表示正在做某事。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 138,
+        "sentence_before_ruby": [
+          {"word": "媽", "bopomo": "ㄇㄚ"},
+          {"word": "媽", "bopomo": "ㄇㄚ˙"},
+          {"word": "說", "bopomo": "ㄕㄨㄛ"},
+          {"word": "等", "bopomo": "ㄉㄥˇ"},
+          {"word": "她", "bopomo": "ㄊㄚ"},
+          {"word": "回", "bopomo": "ㄏㄨㄟˊ"},
+          {"word": "來"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "再",
+        "sentence_after_ruby": [
+          {"word": "決", "bopomo": "ㄐㄩㄝˊ"},
+          {"word": "定", "bopomo": "ㄉㄧㄥˋ"}
+        ],
+        "explanation": "「再」表示先後順序。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 139,
+        "sentence_before_ruby": [
+          {"word": "我", "bopomo": "ㄨㄛˇ"},
+          {"word": "家"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "在",
+        "sentence_after_ruby": [
+          {"word": "學", "bopomo": "ㄒㄩㄝˊ"},
+          {"word": "校", "bopomo": "ㄒㄧㄠˋ"},
+          {"word": "旁", "bopomo": "ㄆㄤˊ"},
+          {"word": "邊", "bopomo": "ㄅㄧㄢ"}
+        ],
+        "explanation": "「在」是說地點（學校旁邊）。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 140,
+        "sentence_before_ruby": [
+          {"word": "衣", "bopomo": "ㄧ"},
+          {"word": "服", "bopomo": "ㄈㄨˊ"},
+          {"word": "洗", "bopomo": "ㄒㄧˇ"},
+          {"word": "好", "bopomo": "ㄏㄠˇ"},
+          {"word": "了", "bopomo": "ㄌㄜ˙"},
+          {"word": "，"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "再",
+        "sentence_after_ruby": [
+          {"word": "晾", "bopomo": "ㄌㄧㄤˋ"},
+          {"word": "起", "bopomo": "ㄑㄧˇ"},
+          {"word": "來", "bopomo": "ㄌㄞˊ"}
+        ],
+        "explanation": "「再」表示先後順序。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 141,
+        "sentence_before_ruby": [
+          {"word": "姊", "bopomo": "ㄐㄧㄝˇ"},
+          {"word": "姊"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "在",
+        "sentence_after_ruby": [
+          {"word": "看", "bopomo": "ㄎㄢˋ"},
+          {"word": "電", "bopomo": "ㄉㄧㄢˋ"},
+          {"word": "視", "bopomo": "ㄕˋ"}
+        ],
+        "explanation": "「在」表示正在做某事。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 142,
+        "sentence_before_ruby": [
+          {"word": "請", "bopomo": "ㄑㄧㄥˇ"},
+          {"word": "你"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "再",
+        "sentence_after_ruby": [
+          {"word": "說", "bopomo": "ㄕㄨㄛ"},
+          {"word": "慢", "bopomo": "ㄇㄢˋ"},
+          {"word": "一", "bopomo": "ㄧˋ"},
+          {"word": "點", "bopomo": "ㄉㄧㄢˇ"}
+        ],
+        "explanation": "「再」表示動作程度的改變（多慢一點）。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 143,
+        "sentence_before_ruby": [
+          {"word": "小", "bopomo": "ㄒㄧㄠˇ"},
+          {"word": "狗", "bopomo": "ㄍㄡˇ"},
+          {"word": "跑"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "在",
+        "sentence_after_ruby": [
+          {"word": "草", "bopomo": "ㄘㄠˇ"},
+          {"word": "地", "bopomo": "ㄉㄧˋ"},
+          {"word": "上", "bopomo": "ㄕㄤˋ"}
+        ],
+        "explanation": "「在」是說地點（草地上）。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 144,
+        "sentence_before_ruby": [
+          {"word": "錢", "bopomo": "ㄑㄧㄢˊ"},
+          {"word": "包", "bopomo": "ㄅㄠ"},
+          {"word": "裡"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "再",
+        "sentence_after_ruby": [
+          {"word": "放", "bopomo": "ㄈㄤˋ"},
+          {"word": "一", "bopomo": "ㄧˋ"},
+          {"word": "百", "bopomo": "ㄅㄞˇ"},
+          {"word": "元", "bopomo": "ㄩㄢˊ"}
+        ],
+        "explanation": "「再」表示數量上的增加。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 145,
+        "sentence_before_ruby": [
+          {"word": "他", "bopomo": "ㄊㄚ"},
+          {"word": "們"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "在",
+        "sentence_after_ruby": [
+          {"word": "一", "bopomo": "ㄧˋ"},
+          {"word": "起", "bopomo": "ㄑㄧˇ"},
+          {"word": "玩", "bopomo": "ㄨㄢˊ"},
+          {"word": "遊", "bopomo": "ㄧㄡˊ"},
+          {"word": "戲", "bopomo": "ㄒㄧˋ"}
+        ],
+        "explanation": "「在」表示正在做某事。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 146,
+        "sentence_before_ruby": [
+          {"word": "這", "bopomo": "ㄓㄜˋ"},
+          {"word": "件", "bopomo": "ㄐㄧㄢˋ"},
+          {"word": "衣", "bopomo": "ㄧ"},
+          {"word": "服", "bopomo": "ㄈㄨˊ"},
+          {"word": "太", "bopomo": "ㄊㄞˋ"},
+          {"word": "小", "bopomo": "ㄒㄧㄠˇ"},
+          {"word": "，", "bopomo": ""},
+          {"word": "我"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "再",
+        "sentence_after_ruby": [
+          {"word": "買", "bopomo": "ㄇㄞˇ"},
+          {"word": "一", "bopomo": "ㄧˊ"},
+          {"word": "件", "bopomo": "ㄐㄧㄢˋ"},
+          {"word": "大", "bopomo": "ㄉㄚˋ"},
+          {"word": "的", "bopomo": "ㄉㄜ˙"}
+        ],
+        "explanation": "「再」表示另買一件。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 147,
+        "sentence_before_ruby": [
+          {"word": "我", "bopomo": "ㄨㄛˇ"},
+          {"word": "們"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "在",
+        "sentence_after_ruby": [
+          {"word": "這", "bopomo": "ㄓㄜˋ"},
+          {"word": "裡", "bopomo": "ㄌㄧˇ"},
+          {"word": "等", "bopomo": "ㄉㄥˇ"},
+          {"word": "公", "bopomo": "ㄍㄨㄥ"},
+          {"word": "車", "bopomo": "ㄔㄜ"}
+        ],
+        "explanation": "「在」是說地點（這裡）。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 148,
+        "sentence_before_ruby": [
+          {"word": "寫", "bopomo": "ㄒㄧㄝˇ"},
+          {"word": "完", "bopomo": "ㄨㄢˊ"},
+          {"word": "名", "bopomo": "ㄇㄧㄥˊ"},
+          {"word": "字"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "再",
+        "sentence_after_ruby": [
+          {"word": "交", "bopomo": "ㄐㄧㄠ"},
+          {"word": "卷", "bopomo": "ㄐㄩㄢˋ"}
+        ],
+        "explanation": "「再」表示先後順序。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 149,
+        "sentence_before_ruby": [
+          {"word": "弟", "bopomo": "ㄉㄧˋ"},
+          {"word": "弟"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "在",
+        "sentence_after_ruby": [
+          {"word": "客", "bopomo": "ㄎㄜˋ"},
+          {"word": "廳", "bopomo": "ㄊㄧㄥ"},
+          {"word": "看", "bopomo": "ㄎㄢˋ"},
+          {"word": "書", "bopomo": "ㄕㄨ"}
+        ],
+        "explanation": "「在」是說地點（客廳）。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 150,
+        "sentence_before_ruby": [
+          {"word": "等", "bopomo": "ㄉㄥˇ"},
+          {"word": "一", "bopomo": "ㄧˊ"},
+          {"word": "下", "bopomo": "ㄒㄧㄚˋ"},
+          {"word": "課", "bopomo": "ㄎㄜˋ"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "再",
+        "sentence_after_ruby": [
+          {"word": "去", "bopomo": "ㄑㄩˋ"},
+          {"word": "玩", "bopomo": "ㄨㄢˊ"}
+        ],
+        "explanation": "「再」表示先下課，然後才去玩。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 151,
+        "sentence_before_ruby": [
+          {"word": "媽", "bopomo": "ㄇㄚ"},
+          {"word": "媽", "bopomo": "ㄇㄚ˙"},
+          {"word": "叫", "bopomo": "ㄐㄧㄠˋ"},
+          {"word": "我"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "再",
+        "sentence_after_ruby": [
+          {"word": "等", "bopomo": "ㄉㄥˇ"},
+          {"word": "一", "bopomo": "ㄧˊ"},
+          {"word": "會", "bopomo": "ㄏㄨㄟˇ"}
+        ],
+        "explanation": "「再」表示多加一點時間。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 152,
+        "sentence_before_ruby": [
+          {"word": "我", "bopomo": "ㄨㄛˇ"},
+          {"word": "們"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "在",
+        "sentence_after_ruby": [
+          {"word": "戶", "bopomo": "ㄏㄨˋ"},
+          {"word": "外", "bopomo": "ㄨㄞˋ"},
+          {"word": "上", "bopomo": "ㄕㄤˋ"},
+          {"word": "課", "bopomo": "ㄎㄜˋ"}
+        ],
+        "explanation": "「在」是說地點（戶外）。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 153,
+        "sentence_before_ruby": [
+          {"word": "請"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "再",
+        "sentence_after_ruby": [
+          {"word": "給", "bopomo": "ㄍㄟˇ"},
+          {"word": "我", "bopomo": "ㄨㄛˇ"},
+          {"word": "一", "bopomo": "ㄧˋ"},
+          {"word": "些", "bopomo": "ㄒㄧㄝ"}
+        ],
+        "explanation": "「再」表示多給一點。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 154,
+        "sentence_before_ruby": [
+          {"word": "你", "bopomo": "ㄋㄧˇ"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "在",
+        "sentence_after_ruby": [
+          {"word": "想", "bopomo": "ㄒㄧㄤˇ"},
+          {"word": "什", "bopomo": "ㄕㄜˊ"},
+          {"word": "麼", "bopomo": "ㄇㄜ˙"}
+        ],
+        "explanation": "「在」表示正在做某事。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 155,
+        "sentence_before_ruby": [
+          {"word": "我", "bopomo": "ㄨㄛˇ"},
+          {"word": "們"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "再",
+        "sentence_after_ruby": [
+          {"word": "打", "bopomo": "ㄉㄚˇ"},
+          {"word": "電", "bopomo": "ㄉㄧㄢˋ"},
+          {"word": "話", "bopomo": "ㄏㄨㄚˋ"}
+        ],
+        "explanation": "「再」表示下次打電話。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 156,
+        "sentence_before_ruby": [
+          {"word": "公", "bopomo": "ㄍㄨㄥ"},
+          {"word": "車"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "在",
+        "sentence_after_ruby": [
+          {"word": "路", "bopomo": "ㄌㄨˋ"},
+          {"word": "上", "bopomo": "ㄕㄤˋ"}
+        ],
+        "explanation": "「在」是說地點（路上）。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 157,
+        "sentence_before_ruby": [
+          {"word": "爸", "bopomo": "ㄅㄚˋ"},
+          {"word": "爸", "bopomo": "ㄅㄚ˙"},
+          {"word": "說"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "再",
+        "sentence_after_ruby": [
+          {"word": "買", "bopomo": "ㄇㄞˇ"},
+          {"word": "給", "bopomo": "ㄍㄟˇ"},
+          {"word": "我", "bopomo": "ㄨㄛˇ"}
+        ],
+        "explanation": "「再」表示下次才買。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 158,
+        "sentence_before_ruby": [
+          {"word": "小", "bopomo": "ㄒㄧㄠˇ"},
+          {"word": "貓"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "在",
+        "sentence_after_ruby": [
+          {"word": "追", "bopomo": "ㄓㄨㄟ"},
+          {"word": "老", "bopomo": "ㄌㄠˇ"},
+          {"word": "鼠", "bopomo": "ㄕㄨˇ"}
+        ],
+        "explanation": "「在」表示正在做某事。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 159,
+        "sentence_before_ruby": [
+          {"word": "等", "bopomo": "ㄉㄥˇ"},
+          {"word": "你", "bopomo": "ㄋㄧˇ"},
+          {"word": "長", "bopomo": "ㄓㄤˇ"},
+          {"word": "大", "bopomo": "ㄉㄚˋ"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "再",
+        "sentence_after_ruby": [
+          {"word": "說", "bopomo": "ㄕㄨㄛ"}
+        ],
+        "explanation": "「再」表示先後順序。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 160,
+        "sentence_before_ruby": [
+          {"word": "小", "bopomo": "ㄒㄧㄠˇ"},
+          {"word": "鳥"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "在",
+        "sentence_after_ruby": [
+          {"word": "飛"}
+        ],
+        "explanation": "「在」表示正在做某事。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 161,
+        "sentence_before_ruby": [
+          {"word": "我", "bopomo": "ㄨㄛˇ"},
+          {"word": "要"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "再",
+        "sentence_after_ruby": [
+          {"word": "加", "bopomo": "ㄐㄧㄚ"},
+          {"word": "一", "bopomo": "ㄧˋ"},
+          {"word": "點", "bopomo": "ㄉㄧㄢˇ"},
+          {"word": "糖", "bopomo": "ㄊㄤˊ"}
+        ],
+        "explanation": "「再」表示數量上的增加。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 162,
+        "sentence_before_ruby": [
+          {"word": "圖", "bopomo": "ㄊㄨˊ"},
+          {"word": "書", "bopomo": "ㄕㄨ"},
+          {"word": "館"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "在",
+        "sentence_after_ruby": [
+          {"word": "學", "bopomo": "ㄒㄩㄝˊ"},
+          {"word": "校", "bopomo": "ㄒㄧㄠˋ"},
+          {"word": "裡", "bopomo": "ㄌㄧˇ"}
+        ],
+        "explanation": "「在」是說地點（學校裡）。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 163,
+        "sentence_before_ruby": [
+          {"word": "請"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "再",
+        "sentence_after_ruby": [
+          {"word": "唱", "bopomo": "ㄔㄤˋ"},
+          {"word": "一", "bopomo": "ㄧˊ"},
+          {"word": "次", "bopomo": "ㄘˋ"},
+          {"word": "歌", "bopomo": "ㄍㄜ"}
+        ],
+        "explanation": "「再」表示重複做一次。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 164,
+        "sentence_before_ruby": [
+          {"word": "我", "bopomo": "ㄨㄛˇ"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "在",
+        "sentence_after_ruby": [
+          {"word": "等", "bopomo": "ㄉㄥˇ"},
+          {"word": "你", "bopomo": "ㄋㄧˇ"}
+        ],
+        "explanation": "「在」表示正在做某事。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 165,
+        "sentence_before_ruby": [
+          {"word": "你", "bopomo": "ㄋㄧˇ"},
+          {"word": "先", "bopomo": "ㄒㄧㄢ"},
+          {"word": "走", "bopomo": "ㄗㄡˇ"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "再",
+        "sentence_after_ruby": [
+          {"word": "聯", "bopomo": "ㄌㄧㄢˊ"},
+          {"word": "絡", "bopomo": "ㄌㄨㄛˋ"}
+        ],
+        "explanation": "「再」表示之後才聯絡。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 166,
+        "sentence_before_ruby": [
+          {"word": "球", "bopomo": "ㄑㄧㄡˊ"},
+          {"word": "隊"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "在",
+        "sentence_after_ruby": [
+          {"word": "訓", "bopomo": "ㄒㄩㄣˋ"},
+          {"word": "練", "bopomo": "ㄌㄧㄢˋ"}
+        ],
+        "explanation": "「在」表示正在做某事。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 167,
+        "sentence_before_ruby": [
+          {"word": "小", "bopomo": "ㄒㄧㄠˇ"},
+          {"word": "心", "bopomo": "ㄒㄧㄣ"},
+          {"word": "！", "bopomo": ""},
+          {"word": "不", "bopomo": "ㄅㄨˋ"},
+          {"word": "要"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "再",
+        "sentence_after_ruby": [
+          {"word": "跑", "bopomo": "ㄆㄠˇ"},
+          {"word": "了", "bopomo": "ㄌㄜ˙"}
+        ],
+        "explanation": "「再」表示制止動作的繼續或重複。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 168,
+        "sentence_before_ruby": [
+          {"word": "媽", "bopomo": "ㄇㄚ"},
+          {"word": "媽"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "在",
+        "sentence_after_ruby": [
+          {"word": "公", "bopomo": "ㄍㄨㄥ"},
+          {"word": "司", "bopomo": "ㄙ"}
+        ],
+        "explanation": "「在」是說地點（公司）。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 169,
+        "sentence_before_ruby": [
+          {"word": "等", "bopomo": "ㄉㄥˇ"},
+          {"word": "我", "bopomo": "ㄨㄛˇ"},
+          {"word": "寫", "bopomo": "ㄒㄧㄝˇ"},
+          {"word": "完"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "再",
+        "sentence_after_ruby": [
+          {"word": "說", "bopomo": "ㄕㄨㄛ"}
+        ],
+        "explanation": "「再」表示先後順序。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 170,
+        "sentence_before_ruby": [
+          {"word": "車", "bopomo": "ㄔㄜ"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "在",
+        "sentence_after_ruby": [
+          {"word": "停", "bopomo": "ㄊㄧㄥˊ"},
+          {"word": "車", "bopomo": "ㄔㄜ"},
+          {"word": "場", "bopomo": "ㄔㄤˇ"}
+        ],
+        "explanation": "「在」是說地點（停車場）。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 171,
+        "sentence_before_ruby": [
+          {"word": "我", "bopomo": "ㄨㄛˇ"},
+          {"word": "們", "bopomo": "ㄇㄣ˙"},
+          {"word": "明", "bopomo": "ㄇㄧㄥˊ"},
+          {"word": "天"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "再",
+        "sentence_after_ruby": [
+          {"word": "開", "bopomo": "ㄎㄞ"},
+          {"word": "始", "bopomo": "ㄕˇ"}
+        ],
+        "explanation": "「再」表示之後才開始。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 172,
+        "sentence_before_ruby": [
+          {"word": "弟", "bopomo": "ㄉㄧˋ"},
+          {"word": "弟"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "在",
+        "sentence_after_ruby": [
+          {"word": "看", "bopomo": "ㄎㄢˋ"},
+          {"word": "書"}
+        ],
+        "explanation": "「在」表示正在做某事。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 173,
+        "sentence_before_ruby": [
+          {"word": "請", "bopomo": "ㄑㄧㄥˇ"},
+          {"word": "你"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "再",
+        "sentence_after_ruby": [
+          {"word": "想", "bopomo": "ㄒㄧㄤˇ"},
+          {"word": "一", "bopomo": "ㄧˊ"},
+          {"word": "想", "bopomo": "ㄒㄧㄤˇ"}
+        ],
+        "explanation": "「再」表示重複想。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 174,
+        "sentence_before_ruby": [
+          {"word": "爸", "bopomo": "ㄅㄚˋ"},
+          {"word": "爸"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "在",
+        "sentence_after_ruby": [
+          {"word": "看", "bopomo": "ㄎㄢˋ"},
+          {"word": "報", "bopomo": "ㄅㄠˋ"}
+        ],
+        "explanation": "「在」表示正在做某事。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 175,
+        "sentence_before_ruby": [
+          {"word": "先", "bopomo": "ㄒㄧㄢ"},
+          {"word": "做", "bopomo": "ㄗㄨㄛˋ"},
+          {"word": "完", "bopomo": "ㄨㄢˊ"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "再",
+        "sentence_after_ruby": [
+          {"word": "玩"}
+        ],
+        "explanation": "「再」表示先後順序。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 176,
+        "sentence_before_ruby": [
+          {"word": "貓", "bopomo": "ㄇㄠ"},
+          {"word": "咪"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "在",
+        "sentence_after_ruby": [
+          {"word": "桌", "bopomo": "ㄓㄨㄛ"},
+          {"word": "子", "bopomo": "ㄗ˙"},
+          {"word": "底", "bopomo": "ㄉㄧˇ"},
+          {"word": "下", "bopomo": "ㄒㄧㄚˋ"}
+        ],
+        "explanation": "「在」是說地點（桌子底下）。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 177,
+        "sentence_before_ruby": [
+          {"word": "我", "bopomo": "ㄨㄛˇ"},
+          {"word": "們"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "再",
+        "sentence_after_ruby": [
+          {"word": "看", "bopomo": "ㄎㄢˋ"},
+          {"word": "一", "bopomo": "ㄧˊ"},
+          {"word": "部", "bopomo": "ㄅㄨˋ"},
+          {"word": "電", "bopomo": "ㄉㄧㄢˋ"},
+          {"word": "影", "bopomo": "ㄧㄥˇ"}
+        ],
+        "explanation": "「再」表示多看一部。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 178,
+        "sentence_before_ruby": [
+          {"word": "魚"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "在",
+        "sentence_after_ruby": [
+          {"word": "海", "bopomo": "ㄏㄞˇ"},
+          {"word": "裡"}
+        ],
+        "explanation": "「在」是說地點（海裡）。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 179,
+        "sentence_before_ruby": [
+          {"word": "請"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "再",
+        "sentence_after_ruby": [
+          {"word": "給", "bopomo": "ㄍㄟˇ"},
+          {"word": "我", "bopomo": "ㄨㄛˇ"},
+          {"word": "一", "bopomo": "ㄧˋ"},
+          {"word": "次", "bopomo": "ㄘˋ"},
+          {"word": "機", "bopomo": "ㄐㄧ"},
+          {"word": "會", "bopomo": "ㄏㄨㄟˋ"}
+        ],
+        "explanation": "「再」表示重複、多一次機會。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 180,
+        "sentence_before_ruby": [
+          {"word": "哥", "bopomo": "ㄍㄜ"},
+          {"word": "哥"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "在",
+        "sentence_after_ruby": [
+          {"word": "打", "bopomo": "ㄉㄚˇ"},
+          {"word": "籃", "bopomo": "ㄌㄢˊ"},
+          {"word": "球", "bopomo": "ㄑㄧㄡˊ"}
+        ],
+        "explanation": "「在」表示正在做某事。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 181,
+        "sentence_before_ruby": [
+          {"word": "你", "bopomo": "ㄋㄧˇ"},
+          {"word": "吃", "bopomo": "ㄔ"},
+          {"word": "飽", "bopomo": "ㄅㄠˇ"},
+          {"word": "沒", "bopomo": "ㄇㄟˊ"},
+          {"word": "？", "bopomo": ""},
+          {"word": "要"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "再",
+        "sentence_after_ruby": [
+          {"word": "吃", "bopomo": "ㄔ"},
+          {"word": "一", "bopomo": "ㄧˋ"},
+          {"word": "點", "bopomo": "ㄉㄧㄢˇ"},
+          {"word": "嗎", "bopomo": "ㄇㄚ˙"}
+        ],
+        "explanation": "「再」表示多吃一點。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 182,
+        "sentence_before_ruby": [
+          {"word": "小", "bopomo": "ㄒㄧㄠˇ"},
+          {"word": "鳥"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "在",
+        "sentence_after_ruby": [
+          {"word": "樹", "bopomo": "ㄕㄨˋ"},
+          {"word": "枝", "bopomo": "ㄓ"}
+        ],
+        "explanation": "「在」是說地點（樹枝）。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 183,
+        "sentence_before_ruby": [
+          {"word": "他", "bopomo": "ㄊㄚ"},
+          {"word": "不"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "再",
+        "sentence_after_ruby": [
+          {"word": "犯", "bopomo": "ㄈㄢˋ"},
+          {"word": "錯", "bopomo": "ㄘㄨㄛˋ"},
+          {"word": "了", "bopomo": "ㄌㄜ˙"}
+        ],
+        "explanation": "「再」表示不重複犯錯。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 184,
+        "sentence_before_ruby": [
+          {"word": "請", "bopomo": "ㄑㄧㄥˇ"},
+          {"word": "坐"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "在",
+        "sentence_after_ruby": [
+          {"word": "位", "bopomo": "ㄨㄟˋ"},
+          {"word": "子", "bopomo": "ㄗ˙"},
+          {"word": "上", "bopomo": "ㄕㄤˋ"}
+        ],
+        "explanation": "「在」是說地點（位子上）。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 185,
+        "sentence_before_ruby": [
+          {"word": "下", "bopomo": "ㄒㄧㄚˋ"},
+          {"word": "雨", "bopomo": "ㄩˇ"},
+          {"word": "了", "bopomo": "ㄌㄜ˙"},
+          {"word": "，", "bopomo": ""},
+          {"word": "不", "bopomo": "ㄅㄨˋ"},
+          {"word": "要"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "再",
+        "sentence_after_ruby": [
+          {"word": "淋", "bopomo": "ㄌㄧㄣˊ"},
+          {"word": "雨", "bopomo": "ㄩˇ"}
+        ],
+        "explanation": "「再」表示制止動作的繼續。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 186,
+        "sentence_before_ruby": [
+          {"word": "爸", "bopomo": "ㄅㄚˋ"},
+          {"word": "爸"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "在",
+        "sentence_after_ruby": [
+          {"word": "辦", "bopomo": "ㄅㄢˋ"},
+          {"word": "公", "bopomo": "ㄍㄨㄥ"},
+          {"word": "室", "bopomo": "ㄕˋ"}
+        ],
+        "explanation": "「在」是說地點（辦公室）。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 187,
+        "sentence_before_ruby": [
+          {"word": "這", "bopomo": "ㄓㄜˋ"},
+          {"word": "件", "bopomo": "ㄐㄧㄢˋ"},
+          {"word": "事"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "再",
+        "sentence_after_ruby": [
+          {"word": "議", "bopomo": "ㄧˋ"},
+          {"word": "論", "bopomo": "ㄌㄨㄣˋ"}
+        ],
+        "explanation": "「再」表示重複討論。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 188,
+        "sentence_before_ruby": [
+          {"word": "花", "bopomo": "ㄏㄨㄚ"},
+          {"word": "園"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "在",
+        "sentence_after_ruby": [
+          {"word": "前", "bopomo": "ㄑㄧㄢˊ"},
+          {"word": "面"}
+        ],
+        "explanation": "「在」是說地點（前面）。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 189,
+        "sentence_before_ruby": [
+          {"word": "請", "bopomo": "ㄑㄧㄥˇ"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "再",
+        "sentence_after_ruby": [
+          {"word": "多", "bopomo": "ㄉㄨㄛ"},
+          {"word": "給", "bopomo": "ㄍㄟˇ"},
+          {"word": "我", "bopomo": "ㄨㄛˇ"},
+          {"word": "兩", "bopomo": "ㄌㄧㄤˇ"},
+          {"word": "顆", "bopomo": "ㄎㄜ"}
+        ],
+        "explanation": "「再」表示數量上的增加。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 190,
+        "sentence_before_ruby": [
+          {"word": "小", "bopomo": "ㄒㄧㄠˇ"},
+          {"word": "狗"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "在",
+        "sentence_after_ruby": [
+          {"word": "睡", "bopomo": "ㄕㄨㄟˋ"},
+          {"word": "覺"}
+        ],
+        "explanation": "「在」表示正在做某事。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 191,
+        "sentence_before_ruby": [
+          {"word": "我", "bopomo": "ㄨㄛˇ"},
+          {"word": "們", "bopomo": "ㄇㄣ˙"},
+          {"word": "等", "bopomo": "ㄉㄥˇ"},
+          {"word": "一", "bopomo": "ㄧˊ"},
+          {"word": "會", "bopomo": "ㄏㄨㄟˇ"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "再",
+        "sentence_after_ruby": [
+          {"word": "出", "bopomo": "ㄔㄨ"},
+          {"word": "門", "bopomo": "ㄇㄣˊ"}
+        ],
+        "explanation": "「再」表示先後順序。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 192,
+        "sentence_before_ruby": [
+          {"word": "書"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "在",
+        "sentence_after_ruby": [
+          {"word": "桌", "bopomo": "ㄓㄨㄛ"},
+          {"word": "子", "bopomo": "ㄗ˙"},
+          {"word": "上"}
+        ],
+        "explanation": "「在」是說地點（桌子上）。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 193,
+        "sentence_before_ruby": [
+          {"word": "他", "bopomo": "ㄊㄚ"},
+          {"word": "想"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "再",
+        "sentence_after_ruby": [
+          {"word": "多", "bopomo": "ㄉㄨㄛ"},
+          {"word": "看", "bopomo": "ㄎㄢˋ"},
+          {"word": "一", "bopomo": "ㄧˊ"},
+          {"word": "眼", "bopomo": "ㄧㄢˇ"}
+        ],
+        "explanation": "「再」表示多看一次。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 194,
+        "sentence_before_ruby": [
+          {"word": "小", "bopomo": "ㄒㄧㄠˇ"},
+          {"word": "魚"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "在",
+        "sentence_after_ruby": [
+          {"word": "水", "bopomo": "ㄕㄨㄟˇ"},
+          {"word": "裡", "bopomo": "ㄌㄧˇ"},
+          {"word": "吐", "bopomo": "ㄊㄨˇ"},
+          {"word": "泡", "bopomo": "ㄆㄠˋ"}
+        ],
+        "explanation": "「在」表示正在做某事。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 195,
+        "sentence_before_ruby": [
+          {"word": "下", "bopomo": "ㄒㄧㄚˋ"},
+          {"word": "次", "bopomo": "ㄘˋ"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "再",
+        "sentence_after_ruby": [
+          {"word": "來", "bopomo": "ㄌㄞˊ"},
+          {"word": "玩", "bopomo": "ㄨㄢˊ"}
+        ],
+        "explanation": "「再」表示下次。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 196,
+        "sentence_before_ruby": [
+          {"word": "我", "bopomo": "ㄨㄛˇ"},
+          {"word": "們"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "在",
+        "sentence_after_ruby": [
+          {"word": "電", "bopomo": "ㄉㄧㄢˋ"},
+          {"word": "影", "bopomo": "ㄧㄥˇ"},
+          {"word": "院", "bopomo": "ㄩㄢˋ"}
+        ],
+        "explanation": "「在」是說地點（電影院）。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 197,
+        "sentence_before_ruby": [
+          {"word": "你", "bopomo": "ㄋㄧˇ"},
+          {"word": "可", "bopomo": "ㄎㄜˇ"},
+          {"word": "以"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "再",
+        "sentence_after_ruby": [
+          {"word": "想", "bopomo": "ㄒㄧㄤˇ"},
+          {"word": "想"}
+        ],
+        "explanation": "「再」表示重複想。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 198,
+        "sentence_before_ruby": [
+          {"word": "我", "bopomo": "ㄨㄛˇ"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "在",
+        "sentence_after_ruby": [
+          {"word": "幫", "bopomo": "ㄅㄤ"},
+          {"word": "媽", "bopomo": "ㄇㄚ"},
+          {"word": "媽", "bopomo": "ㄇㄚ˙"}
+        ],
+        "explanation": "「在」表示正在做某事。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 199,
+        "sentence_before_ruby": [
+          {"word": "我", "bopomo": "ㄨㄛˇ"},
+          {"word": "們"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "再",
+        "sentence_after_ruby": [
+          {"word": "聊", "bopomo": "ㄌㄧㄠˊ"}
+        ],
+        "explanation": "「再」表示下次聊。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      },
+      {
+        "id": 200,
+        "sentence_before_ruby": [
+          {"word": "書", "bopomo": "ㄕㄨ"},
+          {"word": "本", "bopomo": "ㄅㄣˇ"},
+          {"word": "放"}
+        ],
+        "gap_options": ["在", "再"],
+        "answer": "在",
+        "sentence_after_ruby": [
+          {"word": "書", "bopomo": "ㄕㄨ"},
+          {"word": "包", "bopomo": "ㄅㄠ"},
+          {"word": "裡", "bopomo": "ㄌㄧˇ"}
+        ],
+        "explanation": "「在」是說地點（書包裡）。",
+        "gap_options_bopomo": ["ㄗㄞˋ", "ㄗㄞˋ"]
+      }
+    ]
+  }
+}

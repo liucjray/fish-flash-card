@@ -1,0 +1,454 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>國語易錯字練習簿 (小二注音版)</title>
+    <style>
+        /* 基礎樣式 */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', 'Microsoft JhengHei', 'PingFang TC', 'Noto Sans TC', sans-serif;
+            margin: 0;
+            padding: 20px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%);
+            background-attachment: fixed;
+            color: #333;
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 950px;
+            margin: 0 auto;
+            background: rgba(255, 255, 255, 0.98);
+            padding: 40px;
+            border-radius: 24px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            backdrop-filter: blur(10px);
+            animation: fadeIn 0.6s ease-in;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        h1 {
+            color: #5a67d8;
+            padding-bottom: 10px;
+            font-size: 2.2em;
+            text-align: center;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 + p {
+            text-align: center;
+            color: #666;
+            font-size: 1.1em;
+            margin-bottom: 30px;
+        }
+
+        h2 {
+            color: #5a67d8;
+            padding-bottom: 10px;
+            font-size: 1.5em;
+            margin-top: 20px;
+            margin-bottom: 15px;
+        }
+
+        /* Tab 導航列樣式 */
+        .tab-nav {
+            display: flex;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            border-radius: 12px;
+            padding: 6px;
+            margin-bottom: 30px;
+            box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
+        }
+
+        .tab-button {
+            flex: 1;
+            padding: 14px 20px;
+            cursor: pointer;
+            background-color: transparent;
+            border: none;
+            font-size: 1em;
+            font-weight: bold;
+            color: rgba(255, 255, 255, 0.7);
+            transition: all 0.3s ease;
+            border-radius: 8px;
+            margin: 0 4px;
+        }
+
+        .tab-button:hover {
+            color: rgba(255, 255, 255, 0.9);
+            background-color: rgba(255, 255, 255, 0.1);
+        }
+
+        .tab-button.active {
+            color: #5a67d8;
+            background-color: white;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+        }
+
+        /* Tab 內容區塊樣式 */
+        .tab-content {
+            display: none;
+            animation: slideIn 0.4s ease-out;
+        }
+
+        .tab-content.active {
+            display: block;
+        }
+
+        @keyframes slideIn {
+            from {
+                opacity: 0;
+                transform: translateX(-20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateX(0);
+            }
+        }
+
+        /* 分數顯示 */
+        #score-section {
+            text-align: center;
+            margin-top: 10px;
+        }
+
+        #score-display {
+            text-align: center;
+            font-size: 1.2em;
+            font-weight: bold;
+            color: #5a67d8;
+            background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            padding: 10px;
+            margin-bottom: 20px;
+        }
+
+        /* 學習區塊樣式 */
+        .rules-section {
+            padding: 20px;
+            background: linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%);
+            border-radius: 16px;
+            margin-bottom: 30px;
+            box-shadow: 0 8px 20px rgba(142, 197, 252, 0.3);
+            border: none;
+        }
+
+        .rule-card {
+            background-color: rgba(255, 255, 255, 0.9);
+            padding: 18px;
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+        }
+
+        .rule-card h3 {
+            margin-top: 0;
+            color: #5a67d8;
+        }
+
+        .rule-card p {
+            line-height: 1.8;
+            color: #444;
+        }
+
+        /* 核心改動：注音樣式 */
+        .sentence-ruby {
+            line-height: 2.2em;
+            font-size: 1.25em;
+        }
+
+        ruby {
+            margin-right: 0.1em;
+        }
+
+        ruby rt {
+            font-size: 0.6em;
+            font-weight: normal;
+            color: #666;
+            user-select: none;
+        }
+
+        /* 測驗區塊樣式 */
+        .quiz-item {
+            padding: 20px;
+            margin-bottom: 18px;
+            border: none;
+            border-radius: 16px;
+            background: linear-gradient(135deg, #fff 0%, #f8f9ff 100%);
+            display: flex;
+            flex-direction: column;
+            box-shadow: 0 6px 20px rgba(90, 103, 216, 0.12);
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .quiz-item-header {
+            display: flex;
+            align-items: center;
+            width: 100%;
+        }
+
+        .quiz-item::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 0;
+            bottom: 0;
+            width: 5px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        }
+
+        .quiz-item:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 30px rgba(90, 103, 216, 0.2);
+        }
+
+        .question-number {
+            font-size: 1em;
+            font-weight: bold;
+            color: white;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            width: 32px;
+            height: 32px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-right: 15px;
+            flex-shrink: 0;
+            box-shadow: 0 2px 8px rgba(102, 126, 234, 0.3);
+        }
+
+        .sentence {
+            font-size: 1.15em;
+            margin-right: 20px;
+            line-height: 2.2em;
+            flex: 1;
+        }
+
+        .gap {
+            font-weight: bold;
+            display: inline-flex;
+            gap: 8px;
+            line-height: 1.5;
+        }
+
+        .gap button {
+            padding: 10px 24px;
+            border: none;
+            border-radius: 10px;
+            cursor: pointer;
+            font-size: 1.1em;
+            font-weight: bold;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
+            min-width: 70px;
+        }
+
+        .gap button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);
+        }
+
+        .gap button:active {
+            transform: translateY(0);
+        }
+
+        .feedback {
+            margin-left: auto;
+            font-weight: bold;
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-size: 1em;
+            white-space: nowrap;
+        }
+
+        .feedback.correct {
+            color: #22c55e;
+            background: linear-gradient(135deg, #d1fae5 0%, #a7f3d0 100%);
+            box-shadow: 0 4px 12px rgba(34, 197, 94, 0.2);
+        }
+
+        .feedback.incorrect {
+            color: #ef4444;
+            background: linear-gradient(135deg, #fee2e2 0%, #fecaca 100%);
+            box-shadow: 0 4px 12px rgba(239, 68, 68, 0.2);
+        }
+
+        .explanation-container {
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.4s ease-out, margin-top 0.4s ease-out, opacity 0.4s ease-out;
+            opacity: 0;
+            margin-top: 0;
+        }
+
+        .explanation-container.show {
+            max-height: 200px;
+            opacity: 1;
+            margin-top: 15px;
+        }
+
+        .explanation {
+            padding: 15px 18px;
+            background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%);
+            border-radius: 12px;
+            color: #92400e;
+            border-left: 4px solid #f59e0b;
+            font-size: 0.95em;
+            line-height: 1.6;
+        }
+
+        .explanation strong {
+            color: #78350f;
+        }
+
+        .disabled {
+            pointer-events: none;
+            opacity: 0.5;
+            filter: grayscale(50%);
+        }
+
+        .correct-highlight {
+            color: #22c55e;
+            background: linear-gradient(135deg, #d1fae5 0%, #a7f3d0 100%);
+            padding: 10px 24px;
+            border-radius: 10px;
+            font-weight: bold;
+            display: inline-block;
+            min-width: 70px;
+            text-align: center;
+            font-size: 1.1em;
+        }
+
+        .incorrect-highlight {
+            color: #ef4444;
+            background: linear-gradient(135deg, #fee2e2 0%, #fecaca 100%);
+            padding: 10px 24px;
+            border-radius: 10px;
+            font-weight: bold;
+            display: inline-block;
+            min-width: 70px;
+            text-align: center;
+            font-size: 1.1em;
+        }
+
+        .group-title {
+            margin-top: 30px;
+        }
+
+        /* 響應式設計 */
+        @media (max-width: 768px) {
+            body {
+                padding: 10px;
+            }
+
+            .container {
+                padding: 25px;
+                border-radius: 16px;
+            }
+
+            h1 {
+                font-size: 1.8em;
+            }
+
+            .tab-nav {
+                flex-direction: column;
+            }
+
+            .tab-button {
+                margin: 4px 0;
+            }
+
+            .quiz-item {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+
+            .sentence {
+                margin-bottom: 15px;
+            }
+
+            .feedback {
+                margin-left: 0;
+                margin-top: 10px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🖍️ 國語易錯字練習簿 (注音版)</h1>
+        <p>點一點格子裡的字，看看自己有沒有答對！</p>
+
+        <div class="tab-nav">
+            <button class="tab-button active" data-tab="tab-de">的 (ㄉㄜ˙) / 得 (ㄉㄜˊ)</button>
+            <button class="tab-button" data-tab="tab-zai">在 (ㄗㄞˋ) / 再 (ㄗㄞˋ)</button>
+        </div>
+
+        <h2 id="score-section">💯 總計</h2>
+        <p id="score-display">答對: 0 題 / 總計: 0 題</p>
+        <div style="text-align: center; margin: 20px 0;">
+            <button id="refresh-btn" style="padding: 12px 30px; font-size: 1.1em; font-weight: bold; border: none; border-radius: 12px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; cursor: pointer; box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3); transition: all 0.3s ease;">
+                🔄 重新出題
+            </button>
+        </div>
+
+
+        <div id="tab-de" class="tab-content active">
+            <h2>💡 「的 (ㄉㄜ˙)」 vs 「得 (ㄉㄜˊ)」 快速規則</h2>
+            <div class="rules-section">
+                <div class="rule-card">
+                    <p>⭐ <strong>的 (ㄉㄜ˙)：</strong> 像個**小帽子**，修飾**東西**（名詞）。 e.g., 紅**的**蘋果，我**的**手。</p>
+                    <p>⭐ <strong>得 (ㄉㄜˊ)：</strong> 像個**小獎牌**，在**動詞**後說結果。 e.g., 跑**得**快，笑**得**開心。</p>
+                </div>
+            </div>
+            
+            <h2 class="group-title">✍️ 的 / 得 測驗練習</h2>
+            <div id="quiz-container-de">
+                <p>正在載入題目...</p>
+            </div>
+        </div>
+
+        <div id="tab-zai" class="tab-content">
+            <h2>💡 「在 (ㄗㄞˋ)」 vs 「再 (ㄗㄞˋ)」 快速規則</h2>
+            <div class="rules-section">
+                <div class="rule-card">
+                    <p>⭐ <strong>在 (ㄗㄞˋ)：</strong> 說**在哪裡**或**在做什麼**。 e.g., 我**在**家，小狗**在**跑。</p>
+                    <p>⭐ <strong>再 (ㄗㄞˋ)：** 說**再一次**或**多一次**。 e.g., **再**玩一下，**再**加一個。**</p>
+                </div>
+            </div>
+
+            <h2 class="group-title">✍️ 在 / 再 測驗練習</h2>
+            <div id="quiz-container-zai">
+                <p>正在載入題目...</p>
+            </div>
+        </div>
+
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
