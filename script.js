@@ -202,10 +202,12 @@ document.addEventListener('DOMContentLoaded', () => {
             userAnswers[question.id] = true;
             feedbackElement.textContent = '✅ 答對了！';
             feedbackElement.classList.add('correct');
-            replaceGapWithAnswer(gapElement, correctAnswer, 'correct-highlight');
+            // 只在句子中顯示答案
             if (gapPlaceholder) {
                 gapPlaceholder.innerHTML = `<span class="correct-highlight" style="font-size: 1em;">${correctAnswer}</span>`;
             }
+            // 隱藏按鈕區塊
+            gapElement.style.display = 'none';
         } else {
             userAnswers[question.id] = false;
             feedbackElement.textContent = '❌ 答錯了！';
@@ -223,10 +225,12 @@ document.addEventListener('DOMContentLoaded', () => {
                 explanationContainer.classList.add('show');
             }, 100);
 
-            replaceGapWithAnswer(gapElement, correctAnswer, 'incorrect-highlight');
+            // 只在句子中顯示答案
             if (gapPlaceholder) {
                 gapPlaceholder.innerHTML = `<span class="incorrect-highlight" style="font-size: 1em;">${correctAnswer}</span>`;
             }
+            // 隱藏按鈕區塊
+            gapElement.style.display = 'none';
         }
 
         updateScoreDisplay();
