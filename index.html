@@ -145,29 +145,42 @@
 
         /* 學習區塊樣式 */
         .rules-section {
-            padding: 20px;
-            background: linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%);
+            padding: 0;
+            background: transparent;
             border-radius: 16px;
             margin-bottom: 30px;
-            box-shadow: 0 8px 20px rgba(142, 197, 252, 0.3);
             border: none;
         }
 
         .rule-card {
-            background-color: rgba(255, 255, 255, 0.9);
-            padding: 18px;
-            border-radius: 12px;
-            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            padding: 24px;
+            border-radius: 16px;
+            box-shadow: 0 8px 24px rgba(102, 126, 234, 0.3);
+            color: white;
         }
 
         .rule-card h3 {
             margin-top: 0;
-            color: #5a67d8;
+            color: white;
+            font-size: 1.3em;
+            margin-bottom: 15px;
         }
 
         .rule-card p {
-            line-height: 1.8;
-            color: #444;
+            line-height: 1.9;
+            color: rgba(255, 255, 255, 0.95);
+            margin-bottom: 12px;
+            font-size: 1.05em;
+        }
+
+        .rule-card p:last-child {
+            margin-bottom: 0;
+        }
+
+        .rule-card strong {
+            color: #fef3c7;
+            font-weight: bold;
         }
 
         /* 核心改動：注音樣式 */
@@ -415,17 +428,23 @@
             }
 
             .rules-section {
-                padding: 15px;
+                padding: 0;
                 margin-bottom: 20px;
             }
 
             .rule-card {
-                padding: 15px;
+                padding: 20px;
+            }
+
+            .rule-card h3 {
+                font-size: 1.15em;
+                margin-bottom: 12px;
             }
 
             .rule-card p {
                 font-size: 0.95em;
-                line-height: 1.6;
+                line-height: 1.7;
+                margin-bottom: 10px;
             }
 
             .quiz-item {
