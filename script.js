@@ -20,9 +20,12 @@ document.addEventListener('DOMContentLoaded', () => {
      * 將 JSON 中的 [ {word, bopomo} ] 陣列轉換為帶有注音的 HTML (ruby標籤)。
      */
     function renderRubyText(rubyData) {
-        if (!rubyData) return '';
+        if (!rubyData || !Array.isArray(rubyData) || rubyData.length === 0) return '';
         // 使用 <ruby> 標籤實現注音顯示
-        return rubyData.map(item => `<ruby>${item.word}<rt>${item.bopomo}</rt></ruby>`).join('');
+        return rubyData.map(item => {
+            if (!item || !item.word) return '';
+            return `<ruby>${item.word}<rt>${item.bopomo || ''}</rt></ruby>`;
+        }).join('');
     }
 
     /**
@@ -50,7 +53,13 @@ document.addEventListener('DOMContentLoaded', () => {
         const beforeHtml = renderRubyText(question.sentence_before_ruby);
         const afterHtml = renderRubyText(question.sentence_after_ruby);
 
-        sentence.innerHTML = `${beforeHtml} <span class="gap-placeholder">___</span> ${afterHtml}`;
+        // 組合句子，避免多餘的空格
+        let sentenceHtml = '';
+        if (beforeHtml) sentenceHtml += beforeHtml;
+        sentenceHtml += ' <span class="gap-placeholder">___</span>';
+        if (afterHtml) sentenceHtml += ' ' + afterHtml;
+
+        sentence.innerHTML = sentenceHtml;
 
         // 建立選項按鈕區塊（獨立於句子）
         const gapElement = document.createElement('div');
